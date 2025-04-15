@@ -32,14 +32,14 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="postit01">
+      <surface xml:id="001PosterFront">
          <figure>
             <label>Post-It Front</label>
             <figDesc>
                A photograph of the front of a post-it with a simple example phrase.
             </figDesc>
-            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
-            <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>
+            <graphic xml:id="001PosterFront" url="assets/img/documents/001PosterFront.png"/>
+            <graphic xml:id="001PosterFront" url="assets/img/documents/001PosterFront.png"/>
          </figure>
       </surface>
       <surface xml:id="postit02">
@@ -55,7 +55,7 @@
    </facsimile>
    <text>
       <body>
-         <div type="page" facs="#postit01">
+         <div type="page" facs="#001PosterFront">
             <head>
                <hi rend="u">DCHM Template</hi>
             </head>
