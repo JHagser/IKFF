@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+   <teiHeader>
+      
+      <fileDesc>
+         <titleStmt>
+            <title>The Great Peace Journey Digitisation Project</title>
+            <author> Internationella Kvinnoförbundet för Fred och Frihet (IKFF)</author>
+            <principal> Sonia Karla, Johannes Hagsér, Laura Routledge </principal>
+            <respStmt>
+               <resp> Selected, compiled and digitisised by</resp>
+               <name>Sonia Kalra</name>
+               <name>Johannes Hagsér</name>
+               <name>Laura Routledge</name>
+            </respStmt>  
+         </titleStmt>
+         
+         <publicationStmt>
+            <publisher>University of Borås</publisher>
+            <date>2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>
+                     Transcription distributed under a CC-BY-SA 4.0 license.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <p>
+               <lb/>
+               This project digitises items and documents realted to fundraising activities of the Swedish Branch of The Women's International Leage 
+               for Peace and Freedom's (Internationella Kvinnoförbundet för Fred och Frihet: IKFF) organisation of "The Great Peace March" ("Den Stora Fredsresan") in 1985-6. </p>
+               
+              <p> Documents include:
+                 <list>
+                  <item>Images of the "Fredsblommorna" flower pins sold to raise money for "The Great Peace Journey"</item>
+                  <item>IKFF Fundraising letter regarding The Great Peace Journey (1984) </item>
+                  <item>IKFF Newsletter regarding The Great Peace Journey (1984-5).</item> 
+                 <item>Poster advertising The Great Peace Journey (1986)</item></list>
+              </p>  
+              
+               <p>Originals are archived in the IKFF collection at KvinnSam, University of Gothenburg.
+               <ref target="https://www.alvin-portal.org/alvin/view.jsf?aq=%5B%5B%7B%22A_FQ%22%3A%22Stora+fredsresan%22%7D%5D%5D&amp;c=1&amp;aqe=%5B%5D&amp;af=%5B%5D&amp;searchType=EXTENDED&amp;query=Stora+fredsresan&amp;pid=alvin-record%3A115347&amp;dswid=-5826#alvin-record%3A115347"/> 
+            </p>
+         </sourceDesc>
+         
+      </fileDesc>
+      
+      <encodingDesc>
+         <projectDesc> <p> This digitisation project was undertaken as a part of the course "Digitalisering för bevarande och tillgänglighet 
+            given at the University of Borås in Spring 2025. It brings together a number of selected resources realted to the fundraising activities of the Swedish
+            branch of The Women's International League for Peace and Freedom (IKFF) associated with their project "The Great Peace Journey". </p>
+         </projectDesc>
+         
+         <samplingDecl>
+            <p>This small, time-limited, project demonstrates a sample of relvant documents and objects. It could be developed in future to offer a more comprehensive collection
+               of documents related to The Great Peace Journey, or to the fundraising activites of IKFF.</p>
+         </samplingDecl>
+         
+      </encodingDesc>
+      <profileDesc>
+         <abstract xml:lang="en"> <p>Intro to the project and the Great Peace Journey here!! </p> </abstract>
+         <abstract xml:lang="sv"> <p> På Svenska.</p></abstract>
+        
+         <langUsage>
+            <language ident="sv">Swedish</language>
+            <language ident="en">English</language>
+         </langUsage>
+         
+         <particDesc>
+            <org>
+               <orgName> Internationella Kvinnoförbundet för Fred och Frihet</orgName>
+               <desc xml:lang="sv"> Internationella Kvinnoförbundet för Fred och Frihet (IKFF) är en feministisk fredsorganisation som samlar personer som enas i sin beslutsamhet att studera, informera om och avskaffa de grundläggande orsakerna till väpnade konflikter och legitimeringen av krig.
+                  IKFF:s arbete utgår från en feministisk säkerhetsanalys som förebygger konflikter genom att arbeta för mänsklig säkerhet, nedrustning och kvinnors meningsfulla deltagande. 
+                  IKFF är den svenska sektionen av Women’s International League for Peace and Freedom (WILPF) som finns i över 40 länder, med huvudkontor i Genève och New York. <ref target="https://ikff.se/om-oss/om-ikff/"/>
+               </desc>
+               <desc xml:lang="en">IKFF is the Swedish section of the Women's International League for Peace and Freedom (WILPF), a feminist peace organization that brings together individuals united in their determination to study, raise awareness about, and eliminate the root causes of armed conflict and the legitimization of war. Its work is based on a feminist security analysis that seeks to prevent conflicts by promoting human security, disarmament, and the meaningful participation of women. WILPF is active in over 40 countries, with headquarters in Geneva and New York.</desc>
+            </org>  
+         </particDesc>
+         
+      </profileDesc>
+   </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="Flower">
+         <figure>
+            <label>Flower pin</label>
+            <figDesc>
+               Flower pin
+            </figDesc>
+            <graphic url="assets/img/documents/flower.jpg"/>
+            <graphic xml:id="flower_thumb" url="assets/img/documents/flower.jpg"/>
+            
+         </figure>
+      </surface>
+      
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="PosterFront">
+         <figure>
+            <label>Poster Front</label>
+            <figDesc>
+               Front page of poster 
+            </figDesc>
+            <graphic xml:id="PosterFront_full" url="assets/img/documents/001PosterFront.png"/>
+            <graphic xml:id="PosterFront_thumb" url="assets/img/documents/001PosterFront_Thumb.PNG"/>
+            
+         </figure>
+      </surface>
+      <surface xml:id="PosterBack">
+         <figure>
+            <label>Poster Back</label>
+            <figDesc>
+               Back page of poster 
+            </figDesc>
+            <graphic url="assets/img/documents/002PosterBack.PNG"/>
+            <graphic xml:id="poster_thumb" url="assets/img/documents/002PosterBack_Thumb.PNG"/>
+            
+         </figure>
+      </surface>
+   </facsimile>
+  
+   
+   <facsimile>
+      <surface xml:id="LetterBidrag">
+         <figure>
+            <label> Letter (Bidrag)</label>
+            <figDesc> The front page of a letter regarding fundraising for The Great Peace Journey</figDesc>
+            <graphic xml:id="LetterBidrag_full" url="assets/img/documents/005LetterBidrag.png"/>
+            <graphic xml:id="LetterBidrag_thumb" url = "assets/img/documents/005LetterBidrag_thumb.png"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="LetterAdress1">
+         <figure>
+            <label> Bidrag Addresses 1</label>
+            <figDesc> The first page of addresses attatched to IKFF fundraisng letter 1984</figDesc>
+            <graphic xml:id="LetterAdress1_full" url="assets/img/documents/006LetterAdress1.PNG"/>
+            <graphic xml:id="LetterAdress1_thumb" url="assets/img/documents/006LetterAdress1_thumb.PNG"/>
+         </figure>      
+         </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="LetterAdress2">
+         <figure>
+            <label> Bidrag Addresses 2</label>
+            <figDesc> The second page of addresses attatched to IKFF fundraisng letter 1984</figDesc>
+            <graphic xml:id="LetterAdress2_full" url="assets/img/documents/007LetterAdress2.PNG"/>
+            <graphic xml:id="LetterAdress2_thumb" url="assets/img/documents/007LetterAdress2_thumb.PNG"/>
+         </figure>      
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="LetterAdress3">
+         <figure>
+            <label> Bidrag Addresses 3</label>
+            <figDesc> The back of address list attatched to IKFF fundraisng letter 1984</figDesc>
+            <graphic xml:id="LetterAdress3_full" url="assets/img/documents/008LetterAdress3.PNG"/>
+            <graphic xml:id="LetterAdress3_thumb" url="assets/img/documents/008LetterAdress3_thumb.PNG"/>
+         </figure>      
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="LetterFront">
+         <figure>
+            <label>Newsletter Front </label>
+            <figDesc>
+               The front page of IKFF New Years Newsletter 1984-5
+            </figDesc>
+            <graphic xml:id="LetterFront_full" url="assets/img/documents/003LetterFront.png"/>
+            <graphic xml:id="LetterFront_thumb" url="assets/img/documents/003LetterFront_thumb.png"/>
+            
+         </figure>
+      </surface>
+      <surface xml:id="LetterBack">
+         <figure>
+            <label>Newsletter Back</label>
+            <figDesc>
+               The back page of IKFF New Years Newsletter 1984-5
+            </figDesc>
+            <graphic xml:id="LetterBack_full" url="assets/img/documents/004LetterBack.png"/>
+            <graphic xml:id="LetterBack_thumb" url="assets/img/documents/004LetterBack_thumb.png"/>
+            
+         </figure>
+      </surface>
+   </facsimile>
+  
+   
+   <text>
+      <body>
+         
+         <div type="page" facs="#Flower">
+            <head> Flower Pins </head>
+            <p> These photographs show the flower pins ("Fredsblommorna") sold by the IKFF as part of their fundraising activities for "The Great Peace Journey". </p>
+         </div>
+         
+         <div type="page" facs="#PosterFront">
+            <head> Poster describing The Great Peace Journey (Front). </head>
+             
+             <p><lb/>THE GREAT PEACE JOURNEY 
+                     <lb/>LE GRAND VOYAGE DE PAIX
+                     <lb/>DEN STORA FREDSRESAN
+                     <lb/>бОЪШОЕ ПЧТЕШЕСТВИЕ МИРА
+                     <lb/>EL GRAN VIAJE DE LA PAZ
+                     <lb/>DIE GROSSE FRIEDSREISE </p>
+            </div>
+         
+                  
+         <div type="page" facs="#PosterBack">
+            <head> Poster describing The Great Peace Journey (Back) </head>
+            
+            <div>
+            <head>The Great Peace Journey</head>
+            
+            <div rend="align (center)"> <p><title type="sub">Join the Worldwide Network of The Great Peace Journey!</title>
+                 The first stage, in Europe 1985, was a great success. This is the start of the second stage: We will demand answers from all governments to our five questions. - We will demand that resources be directed from weapon production to the production of food, clothes and housing. We want bread instead of bombs. We want to know about the willingness of the leaders of the world
+                  to work in the spirit of the United Nations </p></div>
+            
+            <div rend="aling (left)"> <p>"We the peoples of the United Nations determined
+               to save succeeding generations from the scourge of war and to live in peace with one another as good neighbours" (from the Charter of the United Nations, page 1)
+               This is the promise given by all members of the United Nations.
+               It is our firm conviction that the peoples want their governments to keep this promise - so, we have to put pressure on them. The Great Peace Journey is one way of doing it. </p></div>
+            
+            <div rend="align (right)"><p>The Great Peace Journey goes on - it has just begun
+               In 1985 we visited our neighbouring countries' governments.
+               Are you willing to take part in the organizing of visits to your neighbouring countries' governments in 1986?
+               "This world of ours has been so radically transformed into 'one world or none' that all governments are accountable to all the peoples for what they do or do not do to preserve peace, to implement genuine disarmament measures, to con- vert resources used for military purposes to constructive and meaningful use." (Inga Thorsson, chairperson of The Great Peace Journey) </p></div>
+            
+            <div rend= "align (left)"> <p> <title type= "sub" >1985 Europe </title> 
+               In the first stage of The Great Peace Journey a European network was orga- nized to visit European governments, asking the same five questions.
+                  70 delegates were chosen to represent their countries, forming five internatio- nal groups. During two intensive weeks we visited 25 governments.
+                  We discussed the five questions with presidents, prime ministers and ministers for foreign affairs.
+                  16 governments have answered "yes" to all the five questions. (See the green countries below)
+                  Question 1: 19 yes
+                  Question 4: 22 yes
+                  Question 2: 19 yes Question 5: 19 yes
+                  Question 3: 17 yes
+                  Three governments chose not to receive our delegation - yet.
+                  Some gave unclear answers. But no one has answered no.
+                  The positive governments will be invited to a follow-up conference to discuss how their positive answers will be transformed into reality. </p></div>
+            
+            <div rend= "align (right)"><p> <title>The Great Peace Journey
+               puts Five Fundamental Questions from the Peoples to the Governments</title>
+               <list> 
+                  <item n="1"> Are you willing to forbid your country's defence forces from leaving your own country's territory - if all other U.N. countries do the same? </item>
+                  <item n="2"> Are you willing to forbid nuclear weapons and other weapons of mass destruction in your country
+                     - if all other U.N. countries do the same?</item>
+                  <item n="3"> Are you willing to forbid the export of weapons from your country- if all other U.N. countries do the same?</item>
+                  <item n= "4"> Are you willing to co-operate in joint action so that clean water, food, elementary health-care and school education will be guaranteed to all people in the whole world?</item>
+                  <item n="5"> Are you willing to solve future conflicts with other nations through peaceful means, and not through military actions or threats?</item></list> </p>           
+            </div>
+            
+            
+            <div rend= "align (center)"> <p> <title type="sub">1986 Africa, Asia, Australia, North America and South America </title>
+               Many regional groups will be formed and we hope that you will be active in one of them. How would you like to plan the visits to your neighbouring countries' governments at the end of 1986? Send us the attached form and we will send you more information. We will also send you names of people in your region who are interested to work with The Great Peace Journey in 1986.</p></div>
+            
+            <div rend="align (left)"> <p> <title>The Initiative</title>
+              The initiative to The Great Peace Journey was taken by women in the Swedish sections of WILPF (Women's International League for Peace and Freedom), Women for Peace and IFOR (International Fellowship of Reconciliation). A network was built up in Europe which is now growing into a worldwide network.
+               Many other organisations have joined us: The Red Cross, Save the Children Fund, churches, trade unions, women's organisations and of course many peace organisations. </p></div>
+            
+            <div rend="aling (right)"> <p><title>How to Finance The Great Peace Journey?</title>
+                  In Europe we are selling the symbol of the Journey: a white peace flower to cover the      
+                  costs. And many individuals and organisations are sponsoring our project.
+                  Let us share the economic responsibility in solidarity. Let us go on selling the peace flower 
+                  and search for sponsors and funds.
+                  In Europe we travelled in white buses. You are of course free to arrange the meetings with
+                  your neighbouring countries' governments as you think suitable. (The only thing that can not 
+                  be changed is the five questions).</p></div>
+            
+            <div rend= "align (left)"> <p><title>The United Nations Member States:</title>
+             Afghanistan, Albania, Algeria, Angola, Antigua, Argentina, Australia, Austria, Bahamas, Bahrain, Bangladesh, Barbados, Belgium, Belize, Benin, Bhutan, Bolivia, Botswana, Brazil, Brunei, Bulgaria, Burkina Faso, Burma, Burundi, Byelorussian SSR, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo, Costa Rica, Cuba, Cyprus, Czechoslovakia, Denmark, Djibouti, Dominica, Dominican Republic, Equador, Egypt, El Salvador, Equatorial Guinea, Ethiopia, Fiji, Finland, France, Gabon, Gambia, German Democratic Republic, Germany Federal Republic, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan, Kampuchea, Kenya, Kuwait, Laos, Lebanon, Lesotho, Liberia, Libya, Luxembourg, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Mauritius, Mexico, Mongolia, Morocco, Mozambique, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Panama, Papau New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania, Rwanda, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Seychelles, Sierra Leone, Singapore, Solomon Islands, Somalia, South Africa, Spain, Sri Lanka, Sudan, Suriname, Swaziland, Sweden, Syria, Tanzania, Thailand, Togo, Trinidad and Tobago, Tunisia, Turkey, Uganda, Ukrainian SSR, United Arab Emirates, United Kingdom, United States of America, Union of Soviet Socialist Republics, Uruguay, Vanuatu, Venezuela, Viet Nam, Yemen, Yemen Democratic, Yugoslavia, Zaire, Zambia, Zimbabwe. (Green colour means "yes" to all five questions) 15. 1. 1986.</p>
+            </div>
+            
+            <div rend= "align (left)"> <p><title>YES, I (we) want to help in the following way:</title>
+               <list><item n="1"> Arrange meetings and spread information about The Great Peace Journey in our country</item>
+                  <item n="2">Communicate with the press and other media</item>
+                  <item n="3">Choose delegates to put the five questions to the governments in our neighbouring U.N. member states</item>
+                  <item n="4"> Arrange for the meeting with the government in our country</item>
+                  <item n="5">Prepare for the stay of the delegates (one or two days)</item>
+                  <item n="6" > Give economic support</item>
+                  <item n="7"> Be co-ordinator in our country</item></list> </p></div>
+            
+            <div rend= "align (center)"><p> <title>Please fill in with BLOCK LETTERS and send this form to:</title>
+              <address><addrLine>The Great Peace Journey International Secretariat </addrLine><addrLine>Box 228
+               </addrLine><addrLine>S-751 04 UPPSALA</addrLine><addrLine> Sweden</addrLine></address>
+                  
+                  Name:
+                  Organisation:
+                  Address:...
+                  Country:</p> </div>
+            
+            <div rend= "align (right)"> <p>We suggest that you send information to
+               the following persons (organisations) also: </p> </div>
+         </div>
+         </div>
+            
+         
+         <div type="page" facs="#LetterBidrag">
+           
+            <div> <head> Fundraising Letter (1984) </head>
+            <p> This fundraising letter was sent by IKFF to organisations and businesses asking for financial support for "The Great Peace Journey"</p> </div>
+           
+            <div type="letterpage">
+               
+               <note place="top" rend="handwritten" >Kopia Kirsty Holthoff
+                  Sven Fädstrain</note> 
+               <lb/>
+               
+               <fw type= "header" rend="italic" place="top left">DEN STORA
+                  FREDSRESAN </fw>
+               <lb/>
+              
+               <opener> THE GREAT PEACE JOURNEY
+                  <address> <name>INTERNATIONAL OFFICE</name> <street>VILLA FLORA BRUNNSPARKEN</street> <postCode>S-372 00</postCode> <region>RONNEBY</region> <country>SWEDEN </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
+               <lb/>
+              
+                 <lb/> <p> <title>Fredsresa till alla jordens länder </title></p>
+               
+                  <p><orgName>Internationella Kvinnoförbundet för Fred och Frihet</orgName> har tagit initiativ till ett stort projekt, som kommer att genomföras under <date when= "1985-05">maj månad 1985</date> </p>
+                  <p>Det hot som den pågående militariseringen och kärnvapenkapp- rustningen utgör för alla jordens människor kan inte accepteras. Vi måste förmå statsmännen att tänka i nya banor.</p>
+                  <p>För att bryta det dödläge som rått alltför länge, reser en dele- gation av 200 kvinnor och män till Europas alla <orgName>FN</orgName>-länder (Etapp 1) och ställer fem stora och viktiga frågor till regeringarna. Vi kommer att kräva att regeringschefen eller utrikesministern be-
+                     svarar dessa frågor.</p>
+                  <p>För att kunna genomföra detta stora projekt på ett framgångs- rikt sätt behövs mycket pengar. Vi har fått tillstånd att an- ordna ett lotteri och vi kommer att sälja en speciell fredsblomma, men vi behöver mer pengar än detta kan inbringa.</p>
+                  <p> Vi vädjar därför till Er att bidraga till vårt projekt med så mycket pengar som möjligt. Ett eventuellt överskott överförs till Etapp 2, som omfattar de övriga <name type="organisation">FN</name>-länderna i världen. Denna etapp tänker vi genomföra <date when=" 1986">1986</date> - <orgName>FN</orgName>:s Världsnedrustnings- år.</p>
+                  <p>Stöd detta oerhört angelägna projekt och hjälp oss att rädda vår värld!</p>
+                  
+                  
+                  <p> <orgName>Internationella Kvinnoförbundet för Fred och Frihet</orgName>
+                     Elisabeth Seele
+                     Gerle
+                     <persName>Elisabeth Gerle</persName>
+                     <roleName>Förbundsordförande</roleName>
+                     
+                     PS - Vi ber Er att om så behövs skicka oss erforderliga ansökningshandlingar - Ds
+                     Bilagor: Broschyr om Fredsresan
+                     Broschyr om IKFF
+                  </p>
+               </div>
+               
+               
+               <note place="bottom" rend="handwritten" >......addresslistan</note>
+         </div>
+            
+            
+         
+         <div type="page" facs="#LetterAdress1">
+            <div type= "attachment">
+               
+               <list>
+                  <item>
+                     <address><addrLine><orgName>Nordisk Kulturfond </orgName></addrLine>        
+                        <addrLine>UD</addrLine>
+                        <addrLine>Box 16121 STOCKHOLM</addrLine></address>
+                  </item>
+
+                  <item>
+                     <address><addrLine> <orgName>Svenska Unescorådet </orgName></addrLine>
+                        <addrLine>c/o Utbildningsdepartamentet Fack</addrLine>
+                        <addrLine>103 10 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <orgName>Svensk-Norska samarbetsfonden</orgName>
+                     <del>Box 1130
+                        11 81 STOCKHOLM</del>
+                     <note rend="handwritten"><address> <addrLine>llungsholms Strand</addrLine> 
+                        <addrLine>126 112 34 Stockholm </addrLine></address></note>
+                  </item>
+                  
+                  <item> 
+                     <address><addrLine><orgName>Svensk-Franska stiftelsen</orgName></addrLine>
+                        <addrLine>Byrådirektör <name>Ingvar Zachau</name></addrLine>
+                        <addrLine>Styrmansgatan 21</addrLine>
+                        <addrLine>114 54 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Stockholms Kommuns forskningsstipendium </orgName></addrLine>
+                        <addrLine>c/o Kommunstyrelsen Stadshuset</addrLine>
+                        <addrLine>105 35 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine> <orgName>Svensk-Japanska stiftelsen </orgName></addrLine>
+                        <addrLine>Biblioteksgatan 6-8</addrLine>
+                        <addrLine>111 46 STOCKHOLM</addrLine> </address>
+                  </item>
+                  
+                  <item> 
+                     <orgName>Svensk-Danska stiftelsen</orgName> 
+                     <del>c/o Föreningen Norden Box 1130
+                        111 18 STOCKHOLM-</del>
+                     <note rend= "handwritten"><address><addrLine>llungsholms Strand 125</addrLine>
+                        <addrLine>112 34 Stockholm.</addrLine>
+                        <addrLine>Sparbanken Stockholms stiftelse</addrLine> 
+                        <addrLine>Box 16318</addrLine>
+                        <addrLine>103 26 STOCKHOLM</addrLine></address></note> 
+                  </item>
+                  
+                  
+                  <item>
+                     <address><addrLine>SAREC</addrLine>
+                        <addrLine>c/o SIDA</addrLine>
+                        <addrLine>105 25 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine> <orgName>Stiftelsen Riksbanken Jubileumsfond </orgName></addrLine>
+                        <addrLine>Box 1649</addrLine>
+                        <addrLine>111 86 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine> <orgName>Radiohjälpsfonden </orgName></addrLine>
+                        <addrLine>c/o Radiohjälpen Sveriges Radio</addrLine>
+                        <addrLine>105 10 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine> <orgName>Prismas aktivitetsfond </orgName></addrLine>
+                        <addrLine>Apelbergsgatan 56</addrLine>
+                        <addrLine>Box 3192</addrLine>
+                        <addrLine>103 63 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                    <address><addrLine> <orgName>Nordisk kulturfond </orgName></addrLine>
+                        <addrLine>UD, Int. sekr. för nord. kult. samarb</addrLine>
+                        <addrLine>Snaregatan 10</addrLine>
+                        <addrLine>DK-1205 KÖPENHAMN</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine> <orgName>Stiftelsen Kronprinsessans Margaretas
+                        minnesfond </orgName></addrLine>
+                        <addrLine>c/o Kungl. Slottet</addrLine>
+                        <addrLine>111 30 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                    <address><addrLine><orgName>Stiftelsen Wilhelm och Martina Lundgrens Understödsfond </orgName></addrLine>
+                        <addrLine>c/o Länsrådet John Hägglund Länstyrelsen</addrLine>
+                        <addrLine>403 40 GÖTEBORG</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>John Lindgrens fredsfond </orgName></addrLine>
+                        <addrLine>c/o Riksdagen</addrLine>
+                        <addrLine>100 12 STOCKHOLM</addrLine></address>
+                  </item>
+               </list>
+            </div>
+         </div>
+         
+         <div type="page" facs="#LetterAdress2">
+            
+                  <list>
+                  <item>
+                    <address><addrLine><orgName>Clara Lachmans fond för befr.av den Skandinaviska samkänslan</orgName></addrLine> 
+                        <addrLine>c/o <orgName>Götabanken</orgName></addrLine>
+                        <addrLine>405 09 GÖTEBORG</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Svenska Kommunarbetare förbundet</orgName></addrLine>
+                        <addrLine>Box 19039</addrLine>
+                        <addrLine>104 32 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Kungl. och Hvitfeldtska stipendienr</orgName></addrLine>
+                        <addrLine>c/o <orgName>Länstyrelsen</orgName></addrLine>
+                        <addrLine>Fack</addrLine>
+                        <addrLine>403 40 GÖTEBORG</addrLine></address> 
+                  </item>
+                  
+                  <item>
+                    <address><addrLine><orgName>Humanistisk-samhällsvetenskapliga
+                        forskningsrådet</orgName></addrLine>
+                        <addrLine>Sveavägen 166, 16tr</addrLine>
+                        <addrLine>113 46 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Stiftelsen Lars Hiertas minne</orgName></addrLine>
+                        <addrLine>Eriksbergsgatan 3, 1tr</addrLine>
+                        <addrLine>114 30 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Första Maj blommans Riksförbund</orgName> </addrLine>
+                        <addrLine>N. Allégatan 7</addrLine>
+                        <addrLine>413 01 GÖTEBORG</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <orgName>Forskningsrådsnämnden</orgName>
+                     <del>Fack
+                        103 10 STOCKHOLM</del>
+                     <note rend= "handwritten"> <address><addrLine>Sveavägen 166</addrLine> <addrLine>113 46 Stockholm</addrLine> </address> </note>
+                  </item>
+                  
+                  <item>
+                    <address><addrLine><orgName>Karin och Ernst August Bångs minne</orgName> </addrLine>
+                        <addrLine>Bergsgatan 20</addrLine>
+                        <addrLine>112 23 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Carnegiestiftelsen</orgName></addrLine>
+                        <addrLine> Krokvägen 13</addrLine>
+                        <addrLine>131 41 NACKA</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Byggnadsarbetare förbundets Kulturstipendier</orgName></addrLine>
+                        <addrLine>c/o Sv. <orgName>Byggnadsarbetare förbundet Stipendienämnden</orgName></addrLine>
+                        <addrLine>Hagagatan 2, Box 19013</addrLine>
+                        <addrLine>104 32 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Brevskolans folkbildningsstipendium</orgName></addrLine>
+                        <addrLine>Västberga allé 5</addrLine>
+                        <addrLine>126 12 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                    <address><addrLine><orgName>Stiftelsen Folke Bernadottes minnesfond</orgName></addrLine>
+                        <addrLine>Box 334</addrLine>
+                        <addrLine>101 24 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                    <address><addrLine><orgName>Magnus Bergvalls stiftelse</orgName></addrLine>
+                        <addrLine>c/o <orgName>Skandinaviska Enskilda Banken</orgName></addrLine>
+                        <addrLine>Notarieavd.</addrLine>
+                        <addrLine> Box 16067</addrLine>
+                        <addrLine>103 22 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+                  <item>
+                     <address><addrLine><orgName>Gunnar och Märtha Bergendahls stiftelse</orgName></addrLine>
+                        <addrLine> c/o <orgName>AB Gevebo</orgName></addrLine>
+                        <addrLine>Box 2137</addrLine>
+                        <addrLine>403 13 GÖTEBORG</addrLine></address>
+                  </item>
+                  
+                  <item>
+                    <address><addrLine><orgName>Kjell och Märta Beijers Stiftelse</orgName></addrLine>
+                        <addrLine>c/o <orgName>Beijerinvest</orgName></addrLine>
+                        <addrLine>Box 7823</addrLine>
+                        <addrLine>103 97 STOCKHOLM</addrLine></address>
+                  </item>
+                  
+               </list>  
+               
+         </div>
+         <div type="page" facs="#LetterAdress3">
+            
+         </div>
+         
+         
+         <div type="page" facs="#LetterFront">
+            
+            
+               <head> Newsletter sent out by IKFF (December-January 1984-5)</head>
+               <p> The newsletter provides context to "The Great Peace Journey" and to the fundraising activities realted to it.</p>
+            
+            
+           <div>
+            <fw type= "header" rend="italic" place="top left">DEN STORA
+               FREDSRESAN </fw>
+               <lb/>
+            
+           <opener> THE GREAT PEACE JOURNEY
+               <address> <name>INTERNATIONAL OFFICE</name> <street>VILLA FLORA BRUNNSPARKEN</street> <postCode>S-372 00</postCode> <region>RONNEBY</region> <country>SWEDEN </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
+               <lb/>
+  
+            <lb/>
+         
+               <p><emph rend="caps">GOTT NYTT ÅR</emph> vill jag önska alla medlemmar i Fred och Frihet! Ett fredens och frihetens år <date>1985</date>.</p> 
+               <p>Skriver det här brevet de sista timmarna på det gamla året. Har just varit ute en timme med min treåring i pulkbacken. Lite för lite snö, men klart och kallt och ljuvligt. Det känns fint att leva. Och viktigt, för våra barn och oss alla, att arbeta för freden.</p>
+               <p>Världen blev allt otryggare skrev DN:s Bengt Albons i en samman- fattande krönika över 1984. I Västeuropa placerade USA ut ca 100 nya Pershing II missiler och kryssningsrobotar hos sina allierade. Sovjet svarade med att i DDR och Tjeckoslovakien placera ut kort- skjutande missiler av typ SS-22. Krigsfartyg i öst och väst har kärnvapenbestyckats. Och nu förbereder man kapprustning i yttre
+                  rymden.</p>
+               <p>Kriget i Afghanistan skördar allt fler offer. Och Nicaragua fruktar för en invasion.</p>
+               <p>Vad kan vi göra? Håller fredsrörelsen på att tappa sugen? DN:s manliga skribenter tycks ibland vilja få oss att tro det (Bengt Albons, Harald Hamrin..) Varför? Av okunnighet eller det som är värre?. </p>
+               <p>Man tiger för det mesta om alla de fredsaktiviter som pågår runt om i vår värld.</p>
+               <p>Jag tror tvärtom att fredsrörelsen är starkare än på länge. Våra värderingar har trängt långt in i institutioner och högt upp i etablissemangen. Trots de nidbilder av fredsrörelsen som presen- terats i massmedia.</p>
+               <p>1985 är det 40 år sen andra världskriget slutade och bomberna över Hiroshima och Nagasaki fälldes. Det är också 40 år sen FN bildades. <emph rend="underline">Då skall vi genomföra första etappen av Den Stora Fredsresan!</emph></p>
+               <p>Kan fredsresan bli en vändpunkt? Ja, det beror i stor utsträckning på oss. Om vi slutar upp och låter arbetet med fredsresan komma bland det främsta på vår personliga dagordning. Stödet från många av våra gamla medlemmar känns fantastiskt. Liksom entusiasmen hos ungdomarna.</p>
+               <p>Vad kan vi då göra? <emph rend="underline">Alla</emph>, enskilda medlemmar, grupper och kretsar, kan beställa hem blommor (från Ronneby) och lotter (från Stockholm) för att sälja, på jobbet, i bekantskapskretsen och till släkt och vänner. Både pingstliljan i papper för en femma och lotterna för en tia där man kan vinna de mest fantastiska resor, till Peru, Kenya, Mimalaya, Japan, USA - för två - är oerhört lättsålda. Just nu tillverkar arbetslösa ungdomar i Ronneby blomman för hand. Senare lär det väl bli maskintillverkning för att få fram miljoner när efterfrågan ökar framåt våren. (Blomman ska säljas över hela Europa)</p>
+               <p>Om fredsresan ska få det genomslag som behövs beror också på oss alla tillsammans. Vi ska använda all vår uppfinningsrikedom och fantasi för att informera. Vänner, bekanta, tidningar, lokalradio, RR och TV, Eurovison. Andra föreningar!</p>
+         </div>
+         </div>
+         
+         <div type="page" facs="#LetterBack">
+          
+            <fw type= "header" rend="italic" place="top left">DEN STORA
+               FREDSRESAN </fw>
+            <lb/>
+            
+            <opener> THE GREAT PEACE JOURNEY
+               <address> <name>INTERNATIONAL OFFICE</name> <street>VILLA FLORA BRUNNSPARKEN</street> <postCode>S-372 00</postCode> <region>RONNEBY</region> <country>SWEDEN </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
+                        
+               
+               <p> <lb/> Visst räknar vi med att Karin Söder ser till att Rädda Barnen och Centern får information om resan, Anders Wijkman Röda Korset Maj Britt Carlsson TCO, Olof Sundby svenska kyrkan etc.</p>
+               <p>Men det viktigaste av allt är att vi tar upp det i de sammanhang där vi är med. På jobbet, i facket, i föreningar och kyrkor.</p>
+               <p>Många kyrkor passade förresten på att sälja fredsblomman i anslutning till nyårshelgen. (Nyårsdagen är utsedd till kyrkornas fredsdag). Tag kontakt med kyrkorna där du bor och hör hur många man vill sälja där under våren osv. </p>
+               <p>Jag har medvetet skrivit så här mycket just om fredsresan. Det betyder inte att allt annat arbete som sker på andra områden är oviktigt. Se t ex vårt januarinummer av tidningen. Och man kan mycket väl sälja blommor, lotter samtidigt som man samlar namn till prov-stoppskampanjen t.ex. </p>
+               
+               <p>alla som har bra idéer, internationella kontakter eller som vill ha mer information, ring eller skriv till kansliet i Ronneby.</p>
+               <p>Du som är enskild medlem i Fred och Frihet och kanske har saknat kontakten med andra har här en unik möjlighet att ta upp fredsresan i andra sammanhang. Det här är ett projekt som en mängd föreningar är intresserade av att stödja.</p>
+               <p>Vi räknar med att ge ut en särskild tidning med fyllig information omkring fredsresan någon gång i februari. Ev. blir det ett särtryck av "Fred och Frihet" men i så fall med många extra exemplar för försäljning. Där skall man kunna få veta resrouten och vart man vänder sig för att anmäla sig till någon följeresa m.m.</p>
+               <p>Genom att få var och varannan människa att bära fredsblomman kan vi visa att många stöder fredsresan och att fredsrörelsen inte har tappat sugen. Blomman sticks ibland för att påminna om stinget i de till synes oskyldiga frågorna.</p>
+               <p> Detta är början till en massrörelse. Kom loss.</p>
+            
+            
+            <closer> An en gång <emph rend="caps">FRED</emph> och <emph rend="caps">ALLT GOTT UNDER DET NYA ÅRET 1985</emph>
+               Elizabeth Gerle
+               <persName>Elisabeth Gerle</persName>
+               <roleName>Ordf.</roleName>
+               <orgName>Internationella Kvinnoförbundet för Fred och Frihet</orgName>
+            </closer>
+            <postscript><label>PS</label><p> FREDSBLOMMAN REDOVISAS TILL <address><addrLine> PG 48 63 096-6</addrLine> <addrLine>IKFF, </addrLine><addrLine>UMEÅ</addrLine></address> Skriv Fredsblomman på talongen </p>
+               <p>FREDSLOTTERIET REDOVISAS TILL <address><addrLine>PG 48 66 170 - 6,</addrLine> <addrLine>IKFF,</addrLine> <addrLine>STOCKHOLM</addrLine></address></p></postscript>
+         
+         </div>
+
+         
+      </body>
+   </text>
+</TEI>
+
+
+
+

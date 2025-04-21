@@ -125,6 +125,14 @@
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
+    
+    <!-- turn tei linebreaks (lb) into html linebreaks (br) -->
+    <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
+    <!-- not: in the previous template there is no <xsl:apply-templates/>. This is because there is nothing to
+    process underneath (nested in) tei lb's. Therefore the XSLT processor does not need to look for templates to
+    apply to the nodes nested within it.-->
 
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
@@ -139,6 +147,18 @@
         <del>
             <xsl:apply-templates/>
         </del>
+    </xsl:template>
+    
+    <xsl:template match="tei:list">
+        <ul>
+            <xsl:apply-templates/>
+        </ul>
+    </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <li>
+            <xsl:apply-templates/>
+        </li>
     </xsl:template>
 
     <!-- transform tei add into html sup -->

@@ -135,6 +135,8 @@
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
+    
+   
 
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
@@ -164,6 +166,18 @@
         <u>
             <xsl:apply-templates/>
         </u>
+    </xsl:template>
+    
+    <xsl:template match="tei:list">
+        <ul>
+            <xsl:apply-templates/>
+        </ul>
+    </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <li>
+            <xsl:apply-templates/>
+        </li>
     </xsl:template>
 
 
