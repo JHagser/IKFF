@@ -160,6 +160,26 @@
             <xsl:apply-templates/>
         </li>
     </xsl:template>
+    
+    <xsl:template match="tei:note">
+        <div1>
+            <xsl:apply-templates/>
+        </div1>
+    </xsl:template>
+    
+    <xsl:template match="tei:fw">
+        <div2>
+            <xsl:apply-templates/>
+        </div2>
+    </xsl:template>
+    
+    <xsl:template match="tei:opener">
+        <div3>
+            <xsl:apply-templates/>
+        </div3>
+    </xsl:template>
+    
+    
 
     <!-- transform tei add into html sup -->
     <xsl:template match="tei:add">

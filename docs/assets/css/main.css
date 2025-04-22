@@ -13,6 +13,22 @@ h1, h2, h3, nav, footer {
     text-align: center;
 }
 
+div1 { font-style: italic; 
+}
+
+div2 { text-align: left;
+        font-size: 1.25vw;
+        font-style: italic;
+        width: 5%;
+
+ }
+
+ div3 { text-align: left;
+        font-size: 1.25vw;
+       
+ }
+
+
 nav {
     margin-bottom: 1vw;
     border-top: 1px solid black;
