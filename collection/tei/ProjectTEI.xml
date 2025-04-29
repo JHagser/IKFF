@@ -88,21 +88,6 @@
    </teiHeader>
    
    <facsimile>
-      <surface xml:id="Flower">
-         <figure>
-            <label>Flower pin</label>
-            <figDesc>
-               Flower pin
-            </figDesc>
-            <graphic url="assets/img/documents/flower.jpg"/>
-            <graphic xml:id="flower_thumb" url="assets/img/documents/flower.jpg"/>
-            
-         </figure>
-      </surface>
-      
-   </facsimile>
-   
-   <facsimile>
       <surface xml:id="PosterFront">
          <figure>
             <label>Poster Front</label>
@@ -126,7 +111,178 @@
          </figure>
       </surface>
    </facsimile>
-  
+   
+   <facsimile>
+      <surface xml:id="Flower1Front">
+         <figure>
+            <label>Flower pin 1 front</label>
+            <figDesc>
+               Flower pin 1, front view
+            </figDesc>
+            <graphic url="assets/img/documents/010Flower1F.png"/>
+            <graphic xml:id="flower1F_thumb" url="assets/img/documents/010Flower1F.png"/>  
+         </figure>
+      </surface>
+         
+      <surface xml:id="Flower1Back">
+         <figure>
+            <label>Flower pin 1 back</label>
+            <figDesc>
+               Flower pin 1, back view.
+            </figDesc>
+            <graphic url="assets/img/documents/011Flower1B.PNG"/>
+            <graphic xml:id="flower1B_thumb" url="assets/img/documents/011Flower1B.PNG"/>
+            
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Flower2Front">
+         <figure>
+            <label>Flower pin 2 front</label>
+            <figDesc>
+               Flower pin 2, front view
+            </figDesc>
+            <graphic url="assets/img/documents/012Flower2F.png"/>
+            <graphic xml:id="flower2F_thumb" url="assets/img/documents/012Flower2F.png"/>  
+         </figure>
+      </surface>
+      
+      <surface xml:id="Flower2Back">
+         <figure>
+            <label>Flower pin 2 back</label>
+            <figDesc>
+               Flower pin 2, back view.
+            </figDesc>
+            <graphic url="assets/img/documents/013Flower2B.PNG"/>
+            <graphic xml:id="flower2B_thumb" url="assets/img/documents/013Flower2B.PNG"/>
+            
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Flower3Front">
+         <figure>
+            <label>Flower pin 3 front</label>
+            <figDesc>
+               Flower pin 3, front view
+            </figDesc>
+            <graphic url="assets/img/documents/014FlowerOF.PNG"/>
+            <graphic xml:id="flower3F_thumb" url="assets/img/documents/014FlowerOF.PNG"/>  
+         </figure>
+      </surface>
+      
+      <surface xml:id="Flower3Back">
+         <figure>
+            <label>Flower pin 3 back</label>
+            <figDesc>
+               Flower pin 3, back view.
+            </figDesc>
+            <graphic url="assets/img/documents/015FlowerOB.PNG"/>
+            <graphic xml:id="flower3B_thumb" url="assets/img/documents/015FlowerOB.PNG"/>
+            
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="FlowerRowF">
+         <figure>
+            <label>Flower pin row F</label>
+            <figDesc>
+               A row of flower pins sold by IKFF
+            </figDesc>
+            <graphic url="assets/img/documents/016FlowerRowF.PNG"/>
+            <graphic xml:id="flowerrowF_thumb" url="assets/img/documents/016FlowerRowF.PNG"/>  
+         </figure>
+      </surface>
+      
+      <surface xml:id="FlowerRowB">
+         <figure>
+            <label>Flower pin row B</label>
+            <figDesc>
+               The back of the row of flower pins
+            </figDesc>
+            <graphic url="assets/img/documents/017FlowerRowB.PNG"/>
+            <graphic xml:id="flowerrowB_thumb" url="assets/img/documents/017FlowerRowB.PNG"/>
+            
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Button">
+         <figure>
+            <label>Sticker</label>
+            <figDesc>
+               A promotional sticker for "The Great Peace Journey"
+            </figDesc>
+            <graphic url="assets/img/documents/020Button.PNG"/>
+            <graphic xml:id="button_close" url="assets/img/documents/020Button.PNG"/>  
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="StickerRowF">
+         <figure>
+            <label>Sticker row F</label>
+            <figDesc>
+               Row of promotional stickers for IKFF
+            </figDesc>
+            <graphic url="assets/img/documents/018StickerF.PNG"/>
+            <graphic xml:id="stickerrowF_thumb" url="assets/img/documents/018StickerF.PNG"/>  
+         </figure>
+      </surface>
+      
+      <surface xml:id="StickerRowB">
+         <figure>
+            <label>Sticker row B</label>
+            <figDesc>
+               The back of the row of promotional stickers
+            </figDesc>
+            <graphic url="assets/img/documents/019StickerB.PNG"/>
+            <graphic xml:id="stickerrowB_thumb" url="assets/img/documents/019StickerB.PNG"/>
+         </figure>
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="BoxA">
+         <figure>
+            <label>Box A</label>
+            <figDesc>
+               Box housing flower pins
+            </figDesc>
+            <graphic url="assets/img/documents/021BoxA.PNG"/>
+            <graphic xml:id="BoxA_thumb" url="assets/img/documents/021BoxA.PNG"/>  
+         </figure>
+      </surface>
+      
+      <surface xml:id="BoxF">
+         <figure>
+            <label>Box F</label>
+            <figDesc>
+               Box housing Flower pins
+            </figDesc>
+            <graphic url="assets/img/documents/022BoxF.PNG"/>
+            <graphic xml:id="BoxF_thumb" url="assets/img/documents/022BoxF.PNG"/>
+         </figure>
+      </surface>
+      
+      <surface xml:id="BoxB">
+         <figure>
+         <label>Box B</label>
+         <figDesc>
+            Box housing Flower pins- back view 
+         </figDesc>
+         <graphic url="assets/img/documents/023BoxB.PNG"/>
+         <graphic xml:id="BoxB_thumb" url="assets/img/documents/023BoxB.PNG"/>
+         </figure>
+      </surface>
+   </facsimile>
    
    <facsimile>
       <surface xml:id="LetterBidrag">
@@ -201,46 +357,43 @@
    <text>
       <body>
          
-         <div type="page" facs="#Flower">
-            <head> Flower Pins </head>
-            <note> These photographs show the flower pins ("Fredsblommorna") sold by the IKFF as part of their fundraising activities for "The Great Peace Journey". </note>
-         </div>
          
          <div type="page" facs="#PosterFront">
+            
             <head> Poster describing The Great Peace Journey (Front). </head>
-             
+            
             <div type= "poster">
                <p>   <lb/>  <l xml:lang="en">THE GREAT PEACE JOURNEY </l>
-                     <lb/> <l xml:lang="fr"> GRAND VOYAGE DE PAIX </l>
-                     <lb/> <l xml:lang="sv"> DEN STORA FREDSRESAN</l>
-                     <lb/> <l xml:lang="ru">бОЪШОЕ ПЧТЕШЕСТВИЕ МИРА</l>
-                     <lb/> <l xml:lang="es">EL GRAN VIAJE DE LA PAZ </l>
-                     <lb/> <l xml:lang="de"> DIE GROSSE FRIEDSREISE </l> </p></div>
-            </div>
+                  <lb/> <l xml:lang="fr"> GRAND VOYAGE DE PAIX </l>
+                  <lb/> <l xml:lang="sv"> DEN STORA FREDSRESAN</l>
+                  <lb/> <l xml:lang="ru">бОЪШОЕ ПЧТЕШЕСТВИЕ МИРА</l>
+                  <lb/> <l xml:lang="es">EL GRAN VIAJE DE LA PAZ </l>
+                  <lb/> <l xml:lang="de"> DIE GROSSE FRIEDSREISE </l> </p></div>
+         </div>
          
-                  
+         
          <div type="page" facs="#PosterBack">
             <head> Poster describing The Great Peace Journey (Back) </head>
             
             <div type= "poster">
-            <p><title type="main">The Great Peace Journey</title> </p>
-            
-            <div rend="align (center)"> <p><title type="sub">Join the Worldwide Network of The Great Peace Journey!</title>
-                 The first stage, in Europe 1985, was a great success. This is the start of the second stage: We will demand answers from all governments to our five questions. - We will demand that resources be directed from weapon production to the production of food, clothes and housing. We want bread instead of bombs. We want to know about the willingness of the leaders of the world
+               <p><title type="main">The Great Peace Journey</title> </p>
+               
+               <div rend="align (center)"> <p><title type="sub">Join the Worldwide Network of The Great Peace Journey!</title>
+                  The first stage, in Europe 1985, was a great success. This is the start of the second stage: We will demand answers from all governments to our five questions. - We will demand that resources be directed from weapon production to the production of food, clothes and housing. We want bread instead of bombs. We want to know about the willingness of the leaders of the world
                   to work in the spirit of the United Nations </p></div>
-            
-            <div rend="aling (left)"> <p><emph>"We the peoples of the United Nations determined
-               to save succeeding generations from the scourge of war and to live in peace with one another as good neighbours" (from the Charter of the United Nations, page 1)
-</emph>               This is the promise given by all members of the United Nations.
-               It is our firm conviction that the peoples want their governments to keep this promise - so, we have to put pressure on them. The Great Peace Journey is one way of doing it. </p></div>
-            
-            <div rend="align (right)"><p><emph>The Great Peace Journey goes on - it has just begun</emph>
-               In 1985 we visited our neighbouring countries' governments.
-               Are you willing to take part in the organizing of visits to your neighbouring countries' governments in 1986?
-               "This world of ours has been so radically transformed into 'one world or none' that all governments are accountable to all the peoples for what they do or do not do to preserve peace, to implement genuine disarmament measures, to con- vert resources used for military purposes to constructive and meaningful use." (Inga Thorsson, chairperson of The Great Peace Journey) </p></div>
-            
-            <div rend= "align (left)"> <p> <title type= "sub" >1985 Europe </title> 
-               In the first stage of The Great Peace Journey a European network was orga- nized to visit European governments, asking the same five questions.
+               
+               <div rend="aling (left)"> <p><emph>"We the peoples of the United Nations determined
+                  to save succeeding generations from the scourge of war and to live in peace with one another as good neighbours" (from the Charter of the United Nations, page 1)
+               </emph>               This is the promise given by all members of the United Nations.
+                  It is our firm conviction that the peoples want their governments to keep this promise - so, we have to put pressure on them. The Great Peace Journey is one way of doing it. </p></div>
+               
+               <div rend="align (right)"><p><emph>The Great Peace Journey goes on - it has just begun</emph>
+                  In 1985 we visited our neighbouring countries' governments.
+                  Are you willing to take part in the organizing of visits to your neighbouring countries' governments in 1986?
+                  "This world of ours has been so radically transformed into 'one world or none' that all governments are accountable to all the peoples for what they do or do not do to preserve peace, to implement genuine disarmament measures, to con- vert resources used for military purposes to constructive and meaningful use." (Inga Thorsson, chairperson of The Great Peace Journey) </p></div>
+               
+               <div rend= "align (left)"> <p> <title type= "sub" >1985 Europe </title> 
+                  In the first stage of The Great Peace Journey a European network was orga- nized to visit European governments, asking the same five questions.
                   70 delegates were chosen to represent their countries, forming five internatio- nal groups. During two intensive weeks we visited 25 governments.
                   We discussed the five questions with presidents, prime ministers and ministers for foreign affairs.
                   16 governments have answered "yes" to all the five questions. (See the green countries below)
@@ -251,27 +404,27 @@
                   Three governments chose not to receive our delegation - yet.
                   Some gave unclear answers. But no one has answered no.
                   The positive governments will be invited to a follow-up conference to discuss how their positive answers will be transformed into reality. </p></div>
-            
-            <div rend= "align (right)"><p> <title>The Great Peace Journey
-               puts Five Fundamental Questions from the Peoples to the Governments</title>
-               <list> 
-                  <item n="1"> Are you willing to forbid your country's defence forces from leaving your own country's territory - if all other U.N. countries do the same? </item>
-                  <item n="2"> Are you willing to forbid nuclear weapons and other weapons of mass destruction in your country
-                     - if all other U.N. countries do the same?</item>
-                  <item n="3"> Are you willing to forbid the export of weapons from your country- if all other U.N. countries do the same?</item>
-                  <item n= "4"> Are you willing to co-operate in joint action so that clean water, food, elementary health-care and school education will be guaranteed to all people in the whole world?</item>
-                  <item n="5"> Are you willing to solve future conflicts with other nations through peaceful means, and not through military actions or threats?</item></list> </p>           
-            </div>
-            
-            
-            <div rend= "align (center)"> <p> <title type="sub">1986 Africa, Asia, Australia, North America and South America </title>
-               Many regional groups will be formed and we hope that you will be active in one of them. How would you like to plan the visits to your neighbouring countries' governments at the end of 1986? Send us the attached form and we will send you more information. We will also send you names of people in your region who are interested to work with The Great Peace Journey in 1986.</p></div>
-            
-            <div rend="align (left)"> <p> <title>The Initiative</title>
-              The initiative to The Great Peace Journey was taken by women in the Swedish sections of WILPF (Women's International League for Peace and Freedom), Women for Peace and IFOR (International Fellowship of Reconciliation). A network was built up in Europe which is now growing into a worldwide network.
-               Many other organisations have joined us: The Red Cross, Save the Children Fund, churches, trade unions, women's organisations and of course many peace organisations. </p></div>
-            
-            <div rend="aling (right)"> <p><title>How to Finance The Great Peace Journey?</title>
+               
+               <div rend= "align (right)"><p> <title>The Great Peace Journey
+                  puts Five Fundamental Questions from the Peoples to the Governments</title>
+                  <list> 
+                     <item n="1"> Are you willing to forbid your country's defence forces from leaving your own country's territory - if all other U.N. countries do the same? </item>
+                     <item n="2"> Are you willing to forbid nuclear weapons and other weapons of mass destruction in your country
+                        - if all other U.N. countries do the same?</item>
+                     <item n="3"> Are you willing to forbid the export of weapons from your country- if all other U.N. countries do the same?</item>
+                     <item n= "4"> Are you willing to co-operate in joint action so that clean water, food, elementary health-care and school education will be guaranteed to all people in the whole world?</item>
+                     <item n="5"> Are you willing to solve future conflicts with other nations through peaceful means, and not through military actions or threats?</item></list> </p>           
+               </div>
+               
+               
+               <div rend= "align (center)"> <p> <title type="sub">1986 Africa, Asia, Australia, North America and South America </title>
+                  Many regional groups will be formed and we hope that you will be active in one of them. How would you like to plan the visits to your neighbouring countries' governments at the end of 1986? Send us the attached form and we will send you more information. We will also send you names of people in your region who are interested to work with The Great Peace Journey in 1986.</p></div>
+               
+               <div rend="align (left)"> <p> <title>The Initiative</title>
+                  The initiative to The Great Peace Journey was taken by women in the Swedish sections of WILPF (Women's International League for Peace and Freedom), Women for Peace and IFOR (International Fellowship of Reconciliation). A network was built up in Europe which is now growing into a worldwide network.
+                  Many other organisations have joined us: The Red Cross, Save the Children Fund, churches, trade unions, women's organisations and of course many peace organisations. </p></div>
+               
+               <div rend="aling (right)"> <p><title>How to Finance The Great Peace Journey?</title>
                   In Europe we are selling the symbol of the Journey: a white peace flower to cover the      
                   costs. And many individuals and organisations are sponsoring our project.
                   Let us share the economic responsibility in solidarity. Let us go on selling the peace flower 
@@ -279,33 +432,57 @@
                   In Europe we travelled in white buses. You are of course free to arrange the meetings with
                   your neighbouring countries' governments as you think suitable. (The only thing that can not 
                   be changed is the five questions).</p></div>
-            
-            <div rend= "align (left)"> <p><title>The United Nations Member States:</title>
-             Afghanistan, Albania, Algeria, Angola, Antigua, Argentina, Australia, <emph>Austria</emph>, Bahamas, Bahrain, Bangladesh, Barbados, <emph>Belgium</emph>, Belize, Benin, Bhutan, Bolivia, Botswana, Brazil, Brunei, <emph>Bulgaria</emph>, Burkina Faso, Burma, Burundi, Byelorussian SSR, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo, Costa Rica, Cuba, <emph>Cyprus</emph>, Czechoslovakia, <emph>Denmark</emph>, Djibouti, Dominica, Dominican Republic, Equador, Egypt, El Salvador, Equatorial Guinea, Ethiopia, Fiji, <emph>Finland</emph>, France, Gabon, Gambia, German Democratic Republic, Germany Federal Republic, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, <emph>Ireland</emph>, Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan, Kampuchea, Kenya, Kuwait, Laos, Lebanon, Lesotho, Liberia, Libya, <emph>Luxembourg</emph>, Madagascar, Malawi, Malaysia, Maldives, Mali,<emph> Malta</emph>, Mauritania, Mauritius, Mexico, Mongolia, Morocco, Mozambique, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Panama, Papau New Guinea, Paraguay, Peru, Philippines, <emph>Poland</emph>, <emph>Portugal</emph>, Qatar, <emph>Romania,</emph> Rwanda, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Seychelles, Sierra Leone, Singapore, Solomon Islands, Somalia, South Africa, <emph>Spain</emph>, Sri Lanka, Sudan, Suriname, Swaziland, <emph>Sweden</emph>, Syria, Tanzania, Thailand, Togo, Trinidad and Tobago, Tunisia, Turkey, Uganda, Ukrainian SSR, United Arab Emirates, United Kingdom, United States of America, Union of Soviet Socialist Republics, Uruguay, Vanuatu, Venezuela, Viet Nam, Yemen, Yemen Democratic, <emph>Yugoslavia</emph>, Zaire, Zambia, Zimbabwe. (Green colour means "yes" to all five questions) 15. 1. 1986.</p>
-            </div>
-            
-            <div rend= "align (left)"> <p><title>YES, I (we) want to help in the following way:</title>
-               <list><item n="1"> Arrange meetings and spread information about The Great Peace Journey in our country</item>
-                  <item n="2">Communicate with the press and other media</item>
-                  <item n="3">Choose delegates to put the five questions to the governments in our neighbouring U.N. member states</item>
-                  <item n="4"> Arrange for the meeting with the government in our country</item>
-                  <item n="5">Prepare for the stay of the delegates (one or two days)</item>
-                  <item n="6" > Give economic support</item>
-                  <item n="7"> Be co-ordinator in our country</item></list> </p></div>
-            
-            <div rend= "align (center)"><p> <title>Please fill in with BLOCK LETTERS and send this form to:</title>
-              <address><addrLine>The Great Peace Journey International Secretariat </addrLine><addrLine>Box 228
-               </addrLine><addrLine>S-751 04 UPPSALA</addrLine><addrLine> Sweden</addrLine></address>
+               
+               <div rend= "align (left)"> <p><title>The United Nations Member States:</title>
+                  Afghanistan, Albania, Algeria, Angola, Antigua, Argentina, Australia, <emph>Austria</emph>, Bahamas, Bahrain, Bangladesh, Barbados, <emph>Belgium</emph>, Belize, Benin, Bhutan, Bolivia, Botswana, Brazil, Brunei, <emph>Bulgaria</emph>, Burkina Faso, Burma, Burundi, Byelorussian SSR, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo, Costa Rica, Cuba, <emph>Cyprus</emph>, Czechoslovakia, <emph>Denmark</emph>, Djibouti, Dominica, Dominican Republic, Equador, Egypt, El Salvador, Equatorial Guinea, Ethiopia, Fiji, <emph>Finland</emph>, France, Gabon, Gambia, German Democratic Republic, Germany Federal Republic, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, <emph>Ireland</emph>, Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan, Kampuchea, Kenya, Kuwait, Laos, Lebanon, Lesotho, Liberia, Libya, <emph>Luxembourg</emph>, Madagascar, Malawi, Malaysia, Maldives, Mali,<emph> Malta</emph>, Mauritania, Mauritius, Mexico, Mongolia, Morocco, Mozambique, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Panama, Papau New Guinea, Paraguay, Peru, Philippines, <emph>Poland</emph>, <emph>Portugal</emph>, Qatar, <emph>Romania,</emph> Rwanda, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Seychelles, Sierra Leone, Singapore, Solomon Islands, Somalia, South Africa, <emph>Spain</emph>, Sri Lanka, Sudan, Suriname, Swaziland, <emph>Sweden</emph>, Syria, Tanzania, Thailand, Togo, Trinidad and Tobago, Tunisia, Turkey, Uganda, Ukrainian SSR, United Arab Emirates, United Kingdom, United States of America, Union of Soviet Socialist Republics, Uruguay, Vanuatu, Venezuela, Viet Nam, Yemen, Yemen Democratic, <emph>Yugoslavia</emph>, Zaire, Zambia, Zimbabwe. (Green colour means "yes" to all five questions) 15. 1. 1986.</p>
+               </div>
+               
+               <div rend= "align (left)"> <p><title>YES, I (we) want to help in the following way:</title>
+                  <list><item n="1"> Arrange meetings and spread information about The Great Peace Journey in our country</item>
+                     <item n="2">Communicate with the press and other media</item>
+                     <item n="3">Choose delegates to put the five questions to the governments in our neighbouring U.N. member states</item>
+                     <item n="4"> Arrange for the meeting with the government in our country</item>
+                     <item n="5">Prepare for the stay of the delegates (one or two days)</item>
+                     <item n="6" > Give economic support</item>
+                     <item n="7"> Be co-ordinator in our country</item></list> </p></div>
+               
+               <div rend= "align (center)"><p> <title>Please fill in with BLOCK LETTERS and send this form to:</title>
+                  <address><addrLine>The Great Peace Journey International Secretariat </addrLine><addrLine>Box 228
+                  </addrLine><addrLine>S-751 04 UPPSALA</addrLine><addrLine> Sweden</addrLine></address>
                   
-                <lb/>Name:
-               <lb/>Organisation:
-               <lb/>Address:...
-               <lb/>Country:</p> </div>
-            
-            <div rend= "align (right)"> <p>We suggest that you send information to
-               the following persons (organisations) also: </p> </div>
+                  <lb/>Name:
+                  <lb/>Organisation:
+                  <lb/>Address:...
+                  <lb/>Country:</p> </div>
+               
+               <div rend= "align (right)"> <p>We suggest that you send information to
+                  the following persons (organisations) also: </p> </div>
+            </div>
          </div>
+         
+         <div type="page" facs="#Flower1Front">
+            <head> Flower Pins (Fredsblommor) and other objects related to fundraising for The Great Peace Journey </head>
+            <note> These photographs show the flower pins (Fredsblommor) sold by the IKFF as part of their fundraising activities for The Great Peace Journey. Images show the subtle variety between these handmade pins, as well as the box from which they were sold. Also included are images of promotional IKFF stickers found within the box.   </note>
          </div>
+         <div type="page" facs="#Flower1Back"> </div>
+         <div type="page" facs="#Flower2Front"> <note> Pin Number 2</note> </div>
+         <div type="page" facs="#Flower2Back"> </div>
+         <div type="page" facs="#Flower3Front"> <note> Pin Number 3</note> </div>
+         <div type="page" facs="#Flower3Back"> </div>
+         <div type="page" facs="#FlowerRowF"> <note> Here we see the flower pins displayed on a strip of thin paper. These strips of pins fit inside the box presented below. </note> </div>
+         <div type="page" facs="#FlowerRowB">  <note> Back view of the row of flower pins</note></div>
+         <div type="page" facs="#Button"> <note> Image of a promotional IKFF sticker</note>
+         <p> FRED PÅ JORDEN  <lb/> IKFF </p>
+         </div>
+         <div type="page" facs="#StickerRowF"> </div>
+         <div type="page" facs="#StickerRowB">  </div>
+         <div type="page" facs="#BoxA"> <note> Imgaes of the box housing the flower pins</note>
+         <p> Fredsblomman</p>
+         <p> Stödet till Fredsresan</p>
+         <p> 5 KRONOR</p>
+         </div>
+         <div type="page" facs="#BoxF"> </div>
+         <div type="page" facs="#BoxB"> </div>
             
          
          <div type="page" facs="#LetterBidrag">
