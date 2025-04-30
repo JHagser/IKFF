@@ -475,8 +475,8 @@
          <p> FRED PÅ JORDEN  <lb/> IKFF </p>
          </div>
          <div type="page" facs="#StickerRowF"> </div>
-         <div type="page" facs="#StickerRowB">  </div>
-         <div type="page" facs="#BoxA"> <note> Imgaes of the box housing the flower pins</note>
+         <div type="page" facs="#StickerRowB">  <note place="top" rend="handwritten" > trycksaker 1980-1-1</note> </div>
+         <div type="page" facs="#BoxA"> <note> Images of the box housing the flower pins</note>
          <p> Fredsblomman</p>
          <p> Stödet till Fredsresan</p>
          <p> 5 KRONOR</p>
@@ -492,15 +492,15 @@
            
             <div type="letterpage">
                <lb/>
-               <note place="top" rend="handwritten" > Kopia Kirsty Holthoff
-                  Sven Fädstrain</note> 
+               <note place="top" rend="handwritten" > Kopia Kirsti Kolthoff
+                  Sven Rådström</note> 
                <lb/>
                
                <fw type= "header" rend="italic" place="top left"> DEN STORA FREDSRESAN </fw>
                <lb/>
               
                <opener> THE GREAT PEACE JOURNEY
-                  <address> <name>INTERNATIONAL OFFICE</name> <street>VILLA FLORA BRUNNSPARKEN</street> <postCode>S-372 00</postCode> <region>RONNEBY</region> <country>SWEDEN </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
+                  <address> <name>INTERNATIONAL OFFICE</name><street> &#x2022; VILLA FLORA &#x2022; BRUNNSPARKEN</street>  <postCode>&#x2022; S-372 00</postCode> <region>RONNEBY</region>  <country> &#x2022; SWEDEN </country>  <addrLine> &#x2022; TEL 0457-126 20 &#x2022; PG 14 31 48-5</addrLine></address> </opener>
                <lb/>
               
                  <lb/> <p> <title>Fredsresa till alla jordens länder </title></p>
@@ -515,8 +515,7 @@
                   
                   
                     <orgName>Internationella Kvinnoförbundet för Fred och Frihet</orgName>
-                     <lb/><signed>Elisabeth Seele
-                     Gerle</signed>
+                     <lb/><signed>Elisabeth Gerle</signed>
                    <lb/> <persName>Elisabeth Gerle</persName>
                    <lb/> <roleName>Förbundsordförande</roleName> </closer>
                      
@@ -527,7 +526,7 @@
                </div>
                
                
-               <note place="bottom" rend="handwritten">  <unclear reason= "handwritten"></unclear>addresslistan</note>
+            <note place="bottom" rend="handwritten"> Utsänt &#x005B;otydligt&#x005D;<unclear reason= "handwritten"></unclear> addresslistan.</note>
          </div>
             
             
@@ -552,8 +551,8 @@
                      <orgName>Svensk-Norska samarbetsfonden</orgName>
                      <del>Box 1130
                         11 81 STOCKHOLM</del>
-                     <note rend="handwritten"><address> <addrLine>llungsholms Strand</addrLine> 
-                        <addrLine>126 112 34 Stockholm </addrLine></address></note>
+                     <note rend="handwritten"><address> <addrLine>Kungsholms Strand</addrLine> 
+                        <addrLine>125 112 34 Stockholm </addrLine></address></note>
                   </item>
                   
                   <item> 
@@ -579,7 +578,7 @@
                      <orgName>Svensk-Danska stiftelsen</orgName> 
                      <del>c/o Föreningen Norden Box 1130
                         111 18 STOCKHOLM-</del>
-                     <note rend= "handwritten"><address><addrLine>llungsholms Strand 125</addrLine>
+                     <note rend= "handwritten"><address><addrLine>Kungsholms Strand 125</addrLine>
                         <addrLine>112 34 Stockholm.</addrLine>
                         <addrLine>Sparbanken Stockholms stiftelse</addrLine> 
                         <addrLine>Box 16318</addrLine>
