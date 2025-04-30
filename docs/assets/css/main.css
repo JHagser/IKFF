@@ -13,6 +13,18 @@ h1, h2, h3, nav, footer {
     text-align: center;
 }
 
+h1 { color: green; 
+}
+
+
+
+h5 { text-decoration-style: solid; 
+}
+
+h4 { text-decoration-style: solid; 
+}
+
+
 div1 { font-style: italic; 
 }
 
@@ -28,6 +40,11 @@ div2 { text-align: left;
        
  }
 
+
+div4 { text-align: center;
+        font-size: 1.25vw;
+             
+ }
 
 nav {
     margin-bottom: 1vw;
@@ -45,6 +62,9 @@ h3 {
     padding: 1vw;
     
 }
+
+
+ 
 
 #details {
     padding: 2vw;
@@ -92,3 +112,8 @@ footer {
     border: 1px solid black;
     width: 500px;
 }
+
+
+
+
+

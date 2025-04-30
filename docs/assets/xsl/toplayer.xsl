@@ -133,6 +133,24 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    
+    <xsl:template match="tei:list">
+        <ul>
+            <xsl:apply-templates/>
+        </ul>
+    </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <li>
+            <xsl:apply-templates/>
+        </li>
+    </xsl:template>
+    
+    <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
+    
+    
 
     <!-- do not show del in toplayer transcription-->
     <xsl:template match="tei:del">
@@ -147,6 +165,31 @@
         <u>
             <xsl:apply-templates/>
         </u>
+    </xsl:template>
+    
+    
+    <xsl:template match="tei:emph">
+        <em>
+            <xsl:apply-templates/>
+        </em>
+    </xsl:template>
+    
+    <xsl:template match="tei:title[@type ='sub']">
+        <h5>
+            <xsl:apply-templates/>
+        </h5>
+    </xsl:template>
+    
+    <xsl:template match="tei:title[@type ='main']">
+        <h4>
+            <xsl:apply-templates/>
+        </h4>
+    </xsl:template>
+    
+    <xsl:template match="tei:note[@type ='introductory']">
+        <div4>
+            <xsl:apply-templates/>
+        </div4>
     </xsl:template>
 
 
