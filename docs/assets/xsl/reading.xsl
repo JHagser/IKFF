@@ -195,6 +195,36 @@
             <xsl:apply-templates/>
         </u>
     </xsl:template>
+    
+    <xsl:template match="tei:emph">
+        <em>
+            <xsl:apply-templates/>
+        </em>
+    </xsl:template>
+    
+    <xsl:template match="tei:emph[@type ='underline']">
+        <h5>
+            <xsl:apply-templates/>
+        </h5>
+    </xsl:template>
+    
+    <xsl:template match="tei:title[@type ='sub']">
+        <h5>
+            <xsl:apply-templates/>
+        </h5>
+    </xsl:template>
+    
+    <xsl:template match="tei:title[@type ='main']">
+        <h4>
+            <xsl:apply-templates/>
+        </h4>
+    </xsl:template>
+    
+    <xsl:template match="tei:note[@type ='introductory']">
+        <div4>
+            <xsl:apply-templates/>
+        </div4>
+    </xsl:template>
 
 
 </xsl:stylesheet>
