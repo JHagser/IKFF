@@ -6,7 +6,7 @@ body {
 	line-height: 1.25;
 	font-size: 1vw;
   width: 100%;
-  background-color: white;
+  background-color: Floralwhite;
 	}
 
 h1, h2, h3, nav, footer {
@@ -16,7 +16,8 @@ h1, h2, h3, nav, footer {
 h1 { color: green; 
 }
 
-
+h2 { color: green; 
+}
 
 h5 { text-decoration-style: solid; 
 }
@@ -41,8 +42,12 @@ div2 { text-align: left;
  }
 
 
-div4 { text-align: center;
+div4 { 
         font-size: 1.25vw;
+        color: green;   
+        font-style: italic;
+        
+
              
  }
 
