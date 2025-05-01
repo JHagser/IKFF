@@ -191,6 +191,12 @@
             <xsl:apply-templates/>
         </div4>
     </xsl:template>
+    
+    <xsl:template match="tei:note">
+        <div1>
+            <xsl:apply-templates/>
+        </div1>
+    </xsl:template>
 
 
 </xsl:stylesheet>

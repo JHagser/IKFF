@@ -39,10 +39,11 @@
                
               <p> Documents include:
                  <list>
-                  <item>Images of the "Fredsblommar" flower pins sold to raise money for "The Great Peace Journey"</item>
+                   <item>Poster advertising The Great Peace Journey (1986)</item>
+                  <item>Images of the "Fredsblomman" flower pin, and realted objets, sold to raise money for "The Great Peace Journey"</item>
                   <item>IKFF Fundraising letter regarding The Great Peace Journey (1984) </item>
                   <item>IKFF Newsletter regarding The Great Peace Journey (1984-5).</item> 
-                 <item>Poster advertising The Great Peace Journey (1986)</item></list>
+                 </list>
               </p>  
               
                <p>Originals are archived in the IKFF collection at KvinnSam, University of Gothenburg.
@@ -75,7 +76,7 @@
          
          <particDesc>
             <org>
-               <orgName> Internationella Kvinnoförbundet för Fred och Frihet</orgName>
+               <orgName xml:id="IKFF"> Internationella Kvinnoförbundet för Fred och Frihet</orgName>
                <desc xml:lang="sv"> Internationella Kvinnoförbundet för Fred och Frihet (IKFF) är en feministisk fredsorganisation som samlar personer som enas i sin beslutsamhet att studera, informera om och avskaffa de grundläggande orsakerna till väpnade konflikter och legitimeringen av krig.
                   IKFF:s arbete utgår från en feministisk säkerhetsanalys som förebygger konflikter genom att arbeta för mänsklig säkerhet, nedrustning och kvinnors meningsfulla deltagande. 
                   IKFF är den svenska sektionen av Women’s International League for Peace and Freedom (WILPF) som finns i över 40 länder, med huvudkontor i Genève och New York. <ref target="https://ikff.se/om-oss/om-ikff/"/>
@@ -293,9 +294,7 @@
             <graphic xml:id="LetterBidrag_thumb" url = "assets/img/documents/005LetterBidrag_thumb.png"/>
          </figure>
       </surface>
-   </facsimile>
    
-   <facsimile>
       <surface xml:id="LetterAdress1">
          <figure>
             <label> Bidrag Addresses 1</label>
@@ -304,9 +303,7 @@
             <graphic xml:id="LetterAdress1_thumb" url="assets/img/documents/006LetterAdress1_thumb.PNG"/>
          </figure>      
          </surface>
-   </facsimile>
    
-   <facsimile>
       <surface xml:id="LetterAdress2">
          <figure>
             <label> Bidrag Addresses 2</label>
@@ -315,9 +312,7 @@
             <graphic xml:id="LetterAdress2_thumb" url="assets/img/documents/007LetterAdress2_thumb.PNG"/>
          </figure>      
       </surface>
-   </facsimile>
    
-   <facsimile>
       <surface xml:id="LetterAdress3">
          <figure>
             <label> Bidrag Addresses 3</label>
@@ -363,7 +358,7 @@
             <head> Poster describing The Great Peace Journey (Front). </head>
             
             <div type= "poster">
-               <p>   <lb/>  <l xml:lang="en">THE GREAT PEACE JOURNEY </l>
+               <p>   <lb/><l xml:lang="en">THE GREAT PEACE JOURNEY </l>
                   <lb/> <l xml:lang="fr"> GRAND VOYAGE DE PAIX </l>
                   <lb/> <l xml:lang="sv"> DEN STORA FREDSRESAN</l>
                   <lb/> <l xml:lang="ru">бОЪШОЕ ПЧТЕШЕСТВИЕ МИРА</l>
@@ -375,7 +370,7 @@
          <div type="page" facs="#PosterBack">
             <head> Poster describing The Great Peace Journey (Back) </head>
             
-            <div type= "poster">
+            <div type= "poster" xml:lang="en">
                <p><title type="main">The Great Peace Journey</title> </p>
                
                <div rend="align (center)"> <p><title type="sub">Join the Worldwide Network of The Great Peace Journey!</title>
@@ -397,10 +392,12 @@
                   70 delegates were chosen to represent their countries, forming five internatio- nal groups. During two intensive weeks we visited 25 governments.
                   We discussed the five questions with presidents, prime ministers and ministers for foreign affairs.
                   16 governments have answered "yes" to all the five questions. (See the green countries below)
-                  Question 1: 19 yes
-                  Question 4: 22 yes
-                  Question 2: 19 yes Question 5: 19 yes
-                  Question 3: 17 yes
+                  <list>
+                  <item n="1">Question 1: 19 yes </item>
+                  <item n="2">Question 4: 22 yes </item>
+                  <item n="3">Question 2: 19 yes Question 5: 19 yes </item>
+                  <item n="4">Question 3: 17 yes </item>
+                  </list>
                   Three governments chose not to receive our delegation - yet.
                   Some gave unclear answers. But no one has answered no.
                   The positive governments will be invited to a follow-up conference to discuss how their positive answers will be transformed into reality. </p></div>
@@ -462,7 +459,7 @@
          
          <div type="page" facs="#Flower1Front">
             <head> Flower Pins (Fredsblommor) and other objects related to fundraising for The Great Peace Journey </head>
-            <note type= "introductory"> These photographs show the flower pins (Fredsblommor) sold by the IKFF as part of their fundraising activities for The Great Peace Journey. Images show the subtle variety between these handmade pins, as well as the box from which they were sold. Also included are images of promotional IKFF stickers found within the box.</note>
+            <note type= "introductory"> These photographs show the flower pins (Fredsblommor) sold by the IKFF as part of their fundraising activities for The Great Peace Journey. <lb/> Images show the subtle variety between these handmade pins, as well as the box from which they were sold. <lb/> Also included are images of promotional IKFF stickers found within the box.</note>
          </div>
          <div type="page" facs="#Flower1Back"> </div>
          <div type="page" facs="#Flower2Front"> <note type="introductory"> Pin Number 2</note> </div>
@@ -476,6 +473,8 @@
          <div type="page" facs="#StickerRowF"> </div>
          <div type="page" facs="#StickerRowB">  <note place="top" rend="handwritten" > trycksaker 1980-1-1</note> </div>
          <div type="page" facs="#BoxA"> <note type= "introductory"> Images of the box housing the flower pins</note>
+         
+          <lb/> 
          <p> Fredsblomman</p>
          <p> Stödet till Fredsresan</p>
          <p> 5 KRONOR</p>
@@ -489,7 +488,7 @@
             <div> <head> Fundraising Letter (1984) </head>
             <note type="introductory"> This fundraising letter was sent by IKFF to organisations and businesses asking for financial support for "The Great Peace Journey"</note> <lb/> </div>
            
-            <div type="letterpage">
+            <div type="letterpage" xml:lang="sv">
                <lb/>
                <note place="top" rend="handwritten" > Kopia Kirsti Kolthoff
                   Sven Rådström</note> 
@@ -504,16 +503,16 @@
               
                  <lb/> <p> <title>Fredsresa till alla jordens länder </title></p>
                
-                  <p><orgName>Internationella Kvinnoförbundet för Fred och Frihet</orgName> har tagit initiativ till ett stort projekt, som kommer att genomföras under <date when= "1985-05">maj månad 1985</date> </p>
+                  <p><orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName> har tagit initiativ till ett stort projekt, som kommer att genomföras under <date when= "1985-05">maj månad 1985</date> </p>
                   <p>Det hot som den pågående militariseringen och kärnvapenkapp- rustningen utgör för alla jordens människor kan inte accepteras. Vi måste förmå statsmännen att tänka i nya banor.</p>
                   <p>För att bryta det dödläge som rått alltför länge, reser en dele- gation av 200 kvinnor och män till Europas alla <orgName>FN</orgName>-länder (Etapp 1) och ställer fem stora och viktiga frågor till regeringarna. Vi kommer att kräva att regeringschefen eller utrikesministern be-
                      svarar dessa frågor.</p>
                   <p>För att kunna genomföra detta stora projekt på ett framgångs- rikt sätt behövs mycket pengar. Vi har fått tillstånd att an- ordna ett lotteri och vi kommer att sälja en speciell fredsblomma, men vi behöver mer pengar än detta kan inbringa.</p>
-                  <p> Vi vädjar därför till Er att bidraga till vårt projekt med så mycket pengar som möjligt. Ett eventuellt överskott överförs till Etapp 2, som omfattar de övriga <name type="organisation">FN</name>-länderna i världen. Denna etapp tänker vi genomföra <date when=" 1986">1986</date> - <orgName>FN</orgName>:s Världsnedrustnings- år.</p>
+                  <p> Vi vädjar därför till Er att bidraga till vårt projekt med så mycket pengar som möjligt. Ett eventuellt överskott överförs till Etapp 2, som omfattar de övriga <orgName>FN</orgName>-länderna i världen. Denna etapp tänker vi genomföra <date when=" 1986">1986</date> - <orgName>FN</orgName>:s Världsnedrustnings- år.</p>
                   <closer>Stöd detta oerhört angelägna projekt och hjälp oss att rädda vår värld!
                   
                   
-                    <orgName>Internationella Kvinnoförbundet för Fred och Frihet</orgName>
+                    <orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName>
                      <lb/><signed>Elisabeth Gerle</signed>
                    <lb/> <persName>Elisabeth Gerle</persName>
                    <lb/> <roleName>Förbundsordförande</roleName> </closer>
@@ -531,7 +530,7 @@
             
          
          <div type="page" facs="#LetterAdress1">
-            <div type= "attachment">
+            <div type= "attachment" xml:lang="sv">
                
                <list>
                   <item>
@@ -756,7 +755,7 @@
                <note type= "introductory"> The newsletter provides further context to "The Great Peace Journey" and to the fundraising activities realted to it.</note>        
             <lb/>
               
-              <div type="letterpage">
+              <div type="letterpage"  xml:lang="sv">
               <lb/>
               <fw type= "header" rend="italic" place="top left">DEN STORA
                FREDSRESAN </fw>
@@ -785,7 +784,7 @@
          
          <div type="page" facs="#LetterBack">
             
-            <div type= "letterpage">
+            <div type= "letterpage" xml:lang="sv">
           
             <fw type= "header" rend="italic" place="top left">DEN STORA
                FREDSRESAN </fw>
@@ -811,7 +810,7 @@
                <lb/> <signed>Elizabeth Gerle </signed>
                <lb/><persName>Elisabeth Gerle</persName>
                <lb/><roleName>Ordf.</roleName>
-               <lb/><orgName>Internationella Kvinnoförbundet för Fred och Frihet</orgName>
+               <lb/><orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName>
             </closer>
            <lb/> <postscript><label>PS</label><p> FREDSBLOMMAN REDOVISAS TILL <address><addrLine> PG 48 63 096-6</addrLine> <addrLine>IKFF, </addrLine><addrLine>UMEÅ</addrLine></address> Skriv Fredsblomman på talongen </p>
                <p>FREDSLOTTERIET REDOVISAS TILL <address><addrLine>PG 48 66 170 - 6,</addrLine> <addrLine>IKFF,</addrLine> <addrLine>STOCKHOLM</addrLine></address></p></postscript>
