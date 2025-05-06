@@ -34,7 +34,7 @@
          <sourceDesc>
             <p>
                <lb/>
-               This project digitises objects and documents realted to fundraising activities of the Swedish Branch of The Women's International Leage 
+               This project digitises objects and documents realted to fundraising activities of the Swedish branch of The Women's International Leage 
                for Peace and Freedom's (Internationella Kvinnoförbundet för Fred och Frihet: IKFF) organisation of "The Great Peace March" ("Den Stora Fredsresan") 1985 and 1986. </p>
                
               <p> Documents include:
@@ -106,8 +106,8 @@
             <figDesc>
                Back page of poster 
             </figDesc>
-            <graphic url="assets/img/documents/002PosterBack.PNG"/>
-            <graphic xml:id="poster_thumb" url="assets/img/documents/002PosterBack_Thumb.PNG"/>
+            <graphic xml:id="PosterBack_full" url="assets/img/documents/002PosterBack.PNG"/>
+            <graphic xml:id="PosterBack_thumb" url="assets/img/documents/002PosterBack_Thumb.PNG"/>
             
          </figure>
       </surface>
@@ -120,8 +120,8 @@
             <figDesc>
                Flower pin 1, front view
             </figDesc>
-            <graphic url="assets/img/documents/010Flower1F.png"/>
-            <graphic xml:id="flower1F_thumb" url="assets/img/documents/010Flower1F.png"/>  
+            <graphic  xml:id= "Flower1Front_full" url="assets/img/documents/010Flower1F.png"/>
+            <graphic xml:id="Flower1Front_thumb" url="assets/img/documents/010Flower1F_Thumb.png"/>  
          </figure>
       </surface>
          
@@ -131,8 +131,8 @@
             <figDesc>
                Flower pin 1, back view.
             </figDesc>
-            <graphic url="assets/img/documents/011Flower1B.PNG"/>
-            <graphic xml:id="flower1B_thumb" url="assets/img/documents/011Flower1B.PNG"/>
+            <graphic xml:id= "Flower1Back_full" url="assets/img/documents/011Flower1B.PNG"/>
+            <graphic xml:id="Flower1Back_thumb" url="assets/img/documents/011Flower1B_Thumb.png"/>
             
          </figure>
       </surface>
@@ -145,8 +145,8 @@
             <figDesc>
                Flower pin 2, front view
             </figDesc>
-            <graphic url="assets/img/documents/012Flower2F.png"/>
-            <graphic xml:id="flower2F_thumb" url="assets/img/documents/012Flower2F.png"/>  
+            <graphic xml:id= "Flower2Front_full" url="assets/img/documents/012Flower2F.png"/>
+            <graphic xml:id="Flower2Front_thumb" url="assets/img/documents/012Flower2F_Thumb.png"/>  
          </figure>
       </surface>
       
@@ -156,8 +156,8 @@
             <figDesc>
                Flower pin 2, back view.
             </figDesc>
-            <graphic url="assets/img/documents/013Flower2B.PNG"/>
-            <graphic xml:id="flower2B_thumb" url="assets/img/documents/013Flower2B.PNG"/>
+            <graphic xml:id="Flower2Back_full" url="assets/img/documents/013Flower2B.PNG"/>
+            <graphic xml:id="Flower2Back_thumb" url="assets/img/documents/013Flower2B_Thumb.png"/>
             
          </figure>
       </surface>
@@ -170,8 +170,8 @@
             <figDesc>
                Flower pin 3, front view
             </figDesc>
-            <graphic url="assets/img/documents/014FlowerOF.PNG"/>
-            <graphic xml:id="flower3F_thumb" url="assets/img/documents/014FlowerOF.PNG"/>  
+            <graphic xml:id= "Flower3Front_full" url="assets/img/documents/014FlowerOF.PNG"/>
+            <graphic xml:id="Flower3Front_thumb" url="assets/img/documents/014FlowerOF_Thumb.png"/>  
          </figure>
       </surface>
       
@@ -181,8 +181,8 @@
             <figDesc>
                Flower pin 3, back view.
             </figDesc>
-            <graphic url="assets/img/documents/015FlowerOB.PNG"/>
-            <graphic xml:id="flower3B_thumb" url="assets/img/documents/015FlowerOB.PNG"/>
+            <graphic xml:id= "Flower3Back_full" url="assets/img/documents/015FlowerOB.PNG"/>
+            <graphic xml:id="Flower3Back_thumb" url="assets/img/documents/015FlowerOB_Thumb.png"/>
             
          </figure>
       </surface>
@@ -195,8 +195,8 @@
             <figDesc>
                A row of flower pins sold by IKFF
             </figDesc>
-            <graphic url="assets/img/documents/016FlowerRowF.PNG"/>
-            <graphic xml:id="flowerrowF_thumb" url="assets/img/documents/016FlowerRowF.PNG"/>  
+            <graphic xml:id= "FlowerRowF_full" url="assets/img/documents/016FlowerRowF.PNG"/>
+            <graphic xml:id="FlowerRowF_thumb" url="assets/img/documents/016FlowerRowF_Thumb.png"/>  
          </figure>
       </surface>
       
@@ -206,8 +206,8 @@
             <figDesc>
                The back of the row of flower pins
             </figDesc>
-            <graphic url="assets/img/documents/017FlowerRowB.PNG"/>
-            <graphic xml:id="flowerrowB_thumb" url="assets/img/documents/017FlowerRowB.PNG"/>
+            <graphic xml:id="FlowerRowB_full" url="assets/img/documents/017FlowerRowB.PNG"/>
+            <graphic xml:id="FlowerRowB_thumb" url="assets/img/documents/017FlowerRowB_Thumb.png"/>
             
          </figure>
       </surface>
@@ -220,8 +220,8 @@
             <figDesc>
                A promotional sticker for "The Great Peace Journey"
             </figDesc>
-            <graphic url="assets/img/documents/020Button.PNG"/>
-            <graphic xml:id="button_close" url="assets/img/documents/020Button.PNG"/>  
+            <graphic xml:id= "Button_full" url="assets/img/documents/020Button.PNG"/>
+            <graphic xml:id="Button_thumb" url="assets/img/documents/020Button_Thumb.png"/>  
          </figure>
       </surface>
    </facsimile>
@@ -233,8 +233,8 @@
             <figDesc>
                Row of promotional stickers for IKFF
             </figDesc>
-            <graphic url="assets/img/documents/018StickerF.PNG"/>
-            <graphic xml:id="stickerrowF_thumb" url="assets/img/documents/018StickerF.PNG"/>  
+            <graphic xml:id= "StickerRowF_full" url="assets/img/documents/018StickerF.PNG"/>
+            <graphic xml:id="StickerRowF_thumb" url="assets/img/documents/018StickerF_Thumb.png"/>  
          </figure>
       </surface>
       
@@ -244,8 +244,8 @@
             <figDesc>
                The back of the row of promotional stickers
             </figDesc>
-            <graphic url="assets/img/documents/019StickerB.PNG"/>
-            <graphic xml:id="stickerrowB_thumb" url="assets/img/documents/019StickerB.PNG"/>
+            <graphic xml:id="StickerRowB_full" url="assets/img/documents/019StickerB.PNG"/>
+            <graphic xml:id="StickerRowB_thumb" url="assets/img/documents/019StickerB_Thumb.png"/>
          </figure>
       </surface>
    </facsimile>
@@ -257,8 +257,8 @@
             <figDesc>
                Box housing flower pins
             </figDesc>
-            <graphic url="assets/img/documents/021BoxA.PNG"/>
-            <graphic xml:id="BoxA_thumb" url="assets/img/documents/021BoxA.PNG"/>  
+            <graphic xml:id= "BoxA_full" url="assets/img/documents/021BoxA.PNG"/>
+            <graphic xml:id="BoxA_thumb" url="assets/img/documents/021BoxA_Thumb.png"/>  
          </figure>
       </surface>
       
@@ -268,8 +268,8 @@
             <figDesc>
                Box housing Flower pins
             </figDesc>
-            <graphic url="assets/img/documents/022BoxF.PNG"/>
-            <graphic xml:id="BoxF_thumb" url="assets/img/documents/022BoxF.PNG"/>
+            <graphic xml:id= "BoxF_full" url="assets/img/documents/022BoxF.PNG"/>
+            <graphic xml:id="BoxF_thumb" url="assets/img/documents/022BoxF_Thumb.png"/>
          </figure>
       </surface>
       
@@ -279,8 +279,8 @@
          <figDesc>
             Box housing Flower pins- back view 
          </figDesc>
-         <graphic url="assets/img/documents/023BoxB.PNG"/>
-         <graphic xml:id="BoxB_thumb" url="assets/img/documents/023BoxB.PNG"/>
+         <graphic xml:id="Box_B_full" url="assets/img/documents/023BoxB.PNG"/>
+         <graphic xml:id="BoxB_thumb" url="assets/img/documents/023BoxB_Thumb.png"/>
          </figure>
       </surface>
    </facsimile>
@@ -320,6 +320,19 @@
             <graphic xml:id="LetterAdress3_full" url="assets/img/documents/008LetterAdress3.PNG"/>
             <graphic xml:id="LetterAdress3_thumb" url="assets/img/documents/008LetterAdress3_thumb.PNG"/>
          </figure>      
+      </surface>
+   </facsimile>
+   
+   <facsimile>
+      <surface xml:id="Letter_opened">
+         <figure>
+            <label></label>
+            <figDesc>
+               Annother view of the letter and attachments          
+            </figDesc>
+            <graphic xml:id= "Letter_opened_full" url="assets/img/documents/009LetterUppslag.PNG"/>
+            <graphic xml:id="letter_opened" url="assets/img/documents/009LetterUppslag_Thumb.png"/>  
+         </figure>
       </surface>
    </facsimile>
    
@@ -747,6 +760,7 @@
             
          </div>
          
+         <div type="page" facs= "#Letter_opened"> </div>
          
          <div type="page" facs="#LetterFront">
             
