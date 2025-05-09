@@ -75,8 +75,8 @@
          </langUsage>
          
          <particDesc>
-            <org>
-               <orgName xml:id="IKFF"> Internationella Kvinnoförbundet för Fred och Frihet</orgName>
+            <org xml:id="IKFF">
+               <orgName> Internationella Kvinnoförbundet för Fred och Frihet</orgName>
                <desc xml:lang="sv"> Internationella Kvinnoförbundet för Fred och Frihet (IKFF) är en feministisk fredsorganisation som samlar personer som enas i sin beslutsamhet att studera, informera om och avskaffa de grundläggande orsakerna till väpnade konflikter och legitimeringen av krig.
                   IKFF:s arbete utgår från en feministisk säkerhetsanalys som förebygger konflikter genom att arbeta för mänsklig säkerhet, nedrustning och kvinnors meningsfulla deltagande. 
                   IKFF är den svenska sektionen av Women’s International League for Peace and Freedom (WILPF) som finns i över 40 länder, med huvudkontor i Genève och New York. <ref target="https://ikff.se/om-oss/om-ikff/"/>
