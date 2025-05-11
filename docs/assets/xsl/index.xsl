@@ -63,7 +63,7 @@
                                 <article id="description">
                                   <p>
                                     <strong>Description:</strong> &#160;
-                                    <xsl:apply-templates select="//tei:sourceDesc"/>
+                                    <xsl:apply-templates select="//tei:abstract"/>
                                   </p>
                                 </article>
                             </div>

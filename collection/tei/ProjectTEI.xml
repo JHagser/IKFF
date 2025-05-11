@@ -36,10 +36,10 @@
                <lb/>
                This project digitises objects and documents realted to fundraising activities of the Swedish branch of The Women's International Leage 
                for Peace and Freedom's (Internationella Kvinnoförbundet för Fred och Frihet: IKFF) organisation of "The Great Peace March" ("Den Stora Fredsresan") 1985 and 1986. </p>
-               
+                
               <p> Documents include:
-                 <list>
-                  <item xml:id="Poster" > Great Peace Journey Poster (1986)
+                  <list>
+                    <item xml:id="Poster" > 
                      <bibl>
                         <title>"The Great Peace Journey (poster)</title>
                         <author> <orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName>.</author>
@@ -84,9 +84,19 @@
          
       </encodingDesc>
       <profileDesc>
-         <abstract xml:lang="en"> <p>Intro to the project and the Great Peace Journey here!! </p> </abstract>
-         <abstract xml:lang="sv"> <p> På Svenska.</p></abstract>
-        
+         <abstract xml:lang="en"> <p>This project digitises a sample of objects and documents realted to "The Great Peace Journey/ Den Stora Fredsresan, organised by Internationalla Kvinnnoförbundet för Fred och Frihet in 1985 and 1986. 
+            <lb/>This action, initiated by the Swedish branch of The Women's International League for Peace and Freedom, involved delegations made up of women from different nationalities and continents visiting all UN member governments to ask them five questions about peace and disarmament.
+            ( IKFF.se) <ref target="https://ikff.se/om-oss/om-ikff/historia/"></ref>. 
+            <lb/>Items digitised in this collection include:
+            <list>
+              <item> <lb/>A Poster advertising The Great Peace Journey</item> 
+               <item> <lb/> Flower pins sold as part of fundraising activities for The Great Peace Journey, and realted objects</item>
+               <item>  <lb/>A fundraisng letter sent to various commercial and charitable organisations as part of the fundraising campaign for "The Great Peace Journey"</item>
+               <item> <lb/> A Newsletter sent to members of the IKFF regarding "The Great Peace Journey" and potential fundraising activities. </item>
+            </list>
+         
+         </p> </abstract>
+                 
          <langUsage>
             <language ident="sv">Swedish</language>
             <language ident="en">English</language>
