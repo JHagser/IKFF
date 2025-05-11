@@ -39,14 +39,32 @@
                
               <p> Documents include:
                  <list>
-                   <item>Poster advertising The Great Peace Journey (1986)</item>
-                  <item>Images of the "Fredsblomman" flower pin, and realted objets, sold to raise money for "The Great Peace Journey"</item>
-                  <item>IKFF Fundraising letter regarding The Great Peace Journey (1984) </item>
-                  <item>IKFF Newsletter regarding The Great Peace Journey (1984-5).</item> 
+                  <item xml:id="Poster" > Great Peace Journey Poster (1986)
+                     <bibl>
+                        <title>"The Great Peace Journey (poster)</title>
+                        <author> <orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName>.</author>
+                        <author> Poster Image by Kerstin Abraham Nilsson</author>
+                        <date> 1986</date>
+                     </bibl>
+                    </item>
+                  <item xml:id="FlowerPins">Images of the "Fredsblomman" flower pin, and realted objets, sold to raise money for "The Great Peace Journey 
+                     <p> These handmade pins were sold by IKFF as a part of ther fundraising activites for "The Great peace Journey".
+                        Included are images of a box of these pins from 1986, alongside three different handmade pins and stickers found in the box (front and back view).  </p>                  </item>
+                  <item xml:id= "FundraisingLetter">IKFF Fundraising letter regarding The Great Peace Journey (1984)
+                  <bibl>
+                     <author>Elizabeth Gerle, <roleName>Chairwoman</roleName> <orgName ref ="#IKFF">IKFF</orgName></author>
+                     <date> December 1984 </date>
+                   </bibl>
+                  </item>
+                  <item xml:id= "Newsletter">IKFF Newsletter regarding The Great Peace Journey (1984-5).
+                     <bibl>
+                        <author>Elizabeth Gerle, <roleName>Chairwoman</roleName> <orgName ref ="#IKFF">IKFF</orgName></author>
+                        <date> December 1984-January 1985 </date>
+                     </bibl></item> 
                  </list>
               </p>  
               
-               <p>Originals are archived in the IKFF collection at KvinnSam, University of Gothenburg.
+               <p>Originals of all documents are archived in the IKFF collection at KvinnSam, University of Gothenburg.
                <ref target="https://www.alvin-portal.org/alvin/view.jsf?aq=%5B%5B%7B%22A_FQ%22%3A%22Stora+fredsresan%22%7D%5D%5D&amp;c=1&amp;aqe=%5B%5D&amp;af=%5B%5D&amp;searchType=EXTENDED&amp;query=Stora+fredsresan&amp;pid=alvin-record%3A115347&amp;dswid=-5826#alvin-record%3A115347"/> 
             </p>
          </sourceDesc>
@@ -366,7 +384,7 @@
       <body>
          
          
-         <div type="page" facs="#PosterFront">
+     <div type="page" facs="#PosterFront">
             
             <head> Poster describing The Great Peace Journey (Front). </head>
             
@@ -469,6 +487,7 @@
                   the following persons (organisations) also: </p> </div>
             </div>
          </div>
+
          
          <div type="page" facs="#Flower1Front">
             <head> Flower Pins (Fredsblommor) and other objects related to fundraising for The Great Peace Journey </head>
