@@ -39,24 +39,25 @@
                 
               <p> Documents include:
                   <list>
-                    <item xml:id="Poster" > 
+                    <item > 
                      <bibl>
                         <title>"The Great Peace Journey (poster)</title>
                         <author> <orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName>.</author>
                         <author> Poster Image by Kerstin Abraham Nilsson</author>
                         <date> 1986</date>
+                        
                      </bibl>
                     </item>
-                  <item xml:id="FlowerPins">Images of the "Fredsblomman" flower pin, and realted objets, sold to raise money for "The Great Peace Journey 
+                  <item>Images of the "Fredsblomman" flower pin, and realted objets, sold to raise money for "The Great Peace Journey 
                      <p> These handmade pins were sold by IKFF as a part of ther fundraising activites for "The Great peace Journey".
                         Included are images of a box of these pins from 1986, alongside three different handmade pins and stickers found in the box (front and back view).  </p>                  </item>
-                  <item xml:id= "FundraisingLetter">IKFF Fundraising letter regarding The Great Peace Journey (1984)
+                  <item>IKFF Fundraising letter regarding The Great Peace Journey (1984)
                   <bibl>
                      <author>Elizabeth Gerle, <roleName>Chairwoman</roleName> <orgName ref ="#IKFF">IKFF</orgName></author>
                      <date> December 1984 </date>
                    </bibl>
                   </item>
-                  <item xml:id= "Newsletter">IKFF Newsletter regarding The Great Peace Journey (1984-5).
+                  <item>IKFF Newsletter regarding The Great Peace Journey (1984-5).
                      <bibl>
                         <author>Elizabeth Gerle, <roleName>Chairwoman</roleName> <orgName ref ="#IKFF">IKFF</orgName></author>
                         <date> December 1984-January 1985 </date>
@@ -393,7 +394,8 @@
    <text>
       <body>
          
-         
+    <div xml:id="Poster">
+       
      <div type="page" facs="#PosterFront">
             
             <head> Poster describing The Great Peace Journey (Front). </head>
@@ -497,9 +499,9 @@
                   the following persons (organisations) also: </p> </div>
             </div>
          </div>
-
+</div>
          
-         <div type="page" facs="#Flower1Front">
+      <div xml:id="FlowerPins">   <div type="page" facs="#Flower1Front">
             <head> Flower Pins (Fredsblommor) and other objects related to fundraising for The Great Peace Journey </head>
             <note type= "introductory"> These photographs show the flower pins (Fredsblommor) sold by the IKFF as part of their fundraising activities for The Great Peace Journey. <lb/> Images show the subtle variety between these handmade pins, as well as the box from which they were sold. <lb/> Also included are images of promotional IKFF stickers found within the box.</note>
          </div>
@@ -525,7 +527,7 @@
          <div type="page" facs="#BoxB"> </div>
             
          
-         <div type="page" facs="#LetterBidrag">
+        <div xml:id="Fundraisingletter"> <div type="page" facs="#LetterBidrag"></div>
            
             <div> <head> Fundraising Letter (1984) </head>
             <note type="introductory"> This fundraising letter was sent by IKFF to organisations and businesses asking for financial support for "The Great Peace Journey"</note> <lb/> </div>
@@ -790,7 +792,8 @@
          </div>
          
          <div type="page" facs= "#Letter_opened"> </div>
-         
+         </div>
+     <div xml:id="Newsletter">    
          <div type="page" facs="#LetterFront">
             
             
@@ -860,7 +863,7 @@
          
          </div>
          </div>
-         
+         </div>
       </body>
    </text>
 </TEI>
