@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Diplomatic View
+                    Diplomatic View
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -34,6 +34,8 @@
                     <a href="diplomatic.html">Diplomatic Transcription</a> |
                     <a href="reading.html">Reading Text</a> |
                     <a href="toplayer.html">Top Layer</a> |
+					<a href="raw.html">RAWs</a> |
+					<a href="rights.html">Rights</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -98,12 +100,13 @@
                 <div class="row" id="footer">
                   <div class="col-sm copyright">
                       <div>
-                        <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
+                        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
                           <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
+						  <img src="assets/img/logos/nc-eu.svg" class="copyright_logo" alt="NonCommercial 4.0 International"/><img src="assets/img/logos/nd.svg" class="copyright_logo" alt="NoDerivatives 4.0 International"/>
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                         2025 IKFF.
                       </div>
                     </div>
                 </div>
