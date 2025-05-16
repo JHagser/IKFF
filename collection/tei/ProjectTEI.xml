@@ -10,7 +10,7 @@
          <titleStmt>
             <title>The Great Peace Journey Digitisation Project</title>
             <author> Internationella Kvinnoförbundet för Fred och Frihet (IKFF)</author>
-            <principal> Sonia Karla, Johannes Hagsér, Laura Routledge </principal>
+            <principal> Sonia Kalra, Johannes Hagsér, Laura Routledge </principal>
             <respStmt>
                <resp> Selected, compiled and digitisised by</resp>
                <name>Sonia Kalra</name>
@@ -35,20 +35,20 @@
             <p>
                <lb/>
                This project digitises objects and documents realted to fundraising activities of the Swedish branch of The Women's International Leage 
-               for Peace and Freedom's (Internationella Kvinnoförbundet för Fred och Frihet: IKFF) organisation of "The Great Peace March" ("Den Stora Fredsresan") 1985 and 1986. </p>
+               for Peace and Freedom's (Internationella Kvinnoförbundet för Fred och Frihet: IKFF) organisation of The Great Peace Journey (Den Stora Fredsresan) in the years 1985 and 1986. </p>
                 
               <p> Documents include:
                   <list>
                     <item > 
                      <bibl>
-                        <title>"The Great Peace Journey (poster)</title>
+                        <title>The Great Peace Journey (poster)</title>
                         <author> <orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName>.</author>
                         <author> Poster Image by Kerstin Abraham Nilsson</author>
                         <date> 1986</date>
                         
                      </bibl>
                     </item>
-                  <item>Images of the "Fredsblomman" flower pin, and realted objets, sold to raise money for "The Great Peace Journey 
+                  <item>Images of the "Fredsblomman" flower pin, and realted objets, sold to raise money for "The Great Peace Journey". 
                      <p> These handmade pins were sold by IKFF as a part of ther fundraising activites for "The Great peace Journey".
                         Included are images of a box of these pins from 1986, alongside three different handmade pins and stickers found in the box (front and back view).  </p>                  </item>
                   <item>IKFF Fundraising letter regarding The Great Peace Journey (1984)
@@ -75,25 +75,25 @@
       <encodingDesc>
          <projectDesc> <p> This digitisation project was undertaken as a part of the course "Digitalisering för bevarande och tillgänglighet" 
             given at the University of Borås in Spring 2025. It brings together selected sources realted to the fundraising activities of the Swedish
-            branch of The Women's International League for Peace and Freedom (IKFF) associated with their project "The Great Peace Journey". </p>
+            branch of The Women's International League for Peace and Freedom (IKFF) associated with their project The Great Peace Journey. </p>
          </projectDesc>
          
          <samplingDecl>
             <p>This small, time-limited, project demonstrates a sample of relvant documents and objects. It could be developed in future to offer a more comprehensive collection
-               of documents related to The Great Peace Journey, or to the fundraising activites of IKFF.</p>
+               of documents related to "The Great Peace Journey", or to the fundraising activites of IKFF.</p>
          </samplingDecl>
          
       </encodingDesc>
       <profileDesc>
-         <abstract xml:lang="en"> <p>This project digitises a sample of objects and documents realted to "The Great Peace Journey/ Den Stora Fredsresan, organised by Internationalla Kvinnnoförbundet för Fred och Frihet in 1985 and 1986. 
-            <lb/>This action, initiated by the Swedish branch of The Women's International League for Peace and Freedom, involved delegations made up of women from different nationalities and continents visiting all UN member governments to ask them five questions about peace and disarmament.
-            ( IKFF.se) <ref target="https://ikff.se/om-oss/om-ikff/historia/"></ref>. 
+         <abstract> <p>This project digitises a sample of objects and documents realted to The Great Peace Journey/ Den Stora Fredsresan, organised by the the Swedish branch of The Women's International League for Peace and Freedom (Internationalla Kvinnnoförbundet för Fred och Frihet/ IKFF) in 1985 and 1986. 
+            <lb/>This action involved delegations made up of women from different nationalities and continents visiting all UN member governments to ask them five questions about peace and disarmament.
+            (IKFF.se) <ref target="https://ikff.se/om-oss/om-ikff/historia/"></ref>. 
             <lb/>Items digitised in this collection include:
             <list>
-              <item> <lb/>A Poster advertising The Great Peace Journey</item> 
-               <item> <lb/> Flower pins sold as part of fundraising activities for The Great Peace Journey, and realted objects</item>
-               <item>  <lb/>A fundraisng letter sent to various commercial and charitable organisations as part of the fundraising campaign for "The Great Peace Journey"</item>
-               <item> <lb/> A Newsletter sent to members of the IKFF regarding "The Great Peace Journey" and potential fundraising activities. </item>
+              <item> <lb/>A Poster advertising The Great Peace Journey.</item> 
+               <item> <lb/> Flower pins sold as part of fundraising activities for The Great Peace Journey, and realted objects.</item>
+               <item>  <lb/>A fundraisng letter sent to various commercial and charitable organisations as part of the fundraising campaign for The Great Peace Journey.</item>
+               <item> <lb/> A Newsletter sent to members of the IKFF regarding The Great Peace Journey and potential fundraising activities. </item>
             </list>
          
          </p> </abstract>
@@ -112,6 +112,9 @@
                </desc>
                <desc xml:lang="en">IKFF is the Swedish section of the Women's International League for Peace and Freedom (WILPF), a feminist peace organization that brings together individuals united in their determination to study, raise awareness about, and eliminate the root causes of armed conflict and the legitimization of war. Its work is based on a feminist security analysis that seeks to prevent conflicts by promoting human security, disarmament, and the meaningful participation of women. WILPF is active in over 40 countries, with headquarters in Geneva and New York.</desc>
             </org>  
+            <org xml:id="UN">
+               <orgName> The United Nations</orgName>
+            </org>
          </particDesc>
          
       </profileDesc>
@@ -418,11 +421,11 @@
                
                <div rend="align (center)"> <p><title type="sub">Join the Worldwide Network of The Great Peace Journey!</title>
                   The first stage, in Europe 1985, was a great success. This is the start of the second stage: We will demand answers from all governments to our five questions. - We will demand that resources be directed from weapon production to the production of food, clothes and housing. We want bread instead of bombs. We want to know about the willingness of the leaders of the world
-                  to work in the spirit of the United Nations </p></div>
+                  to work in the spirit of the <orgName ref="#UN">United Nations</orgName> </p></div>
                
-               <div rend="aling (left)"> <p>"We the peoples of the United Nations determined
-                  to save succeeding generations from the scourge of war and to live in peace with one another as good neighbours" (from the Charter of the United Nations, page 1)
-                   This is the promise given by all members of the United Nations.
+               <div rend="aling (left)"> <p>"We the peoples of the <orgName ref="#UN">United Nations</orgName> determined
+                  to save succeeding generations from the scourge of war and to live in peace with one another as good neighbours" (from the Charter of the <orgName ref="#UN">United Nations</orgName>, page 1)
+                   This is the promise given by all members of the <orgName ref="#UN">United Nations</orgName>.
                   It is our firm conviction that the peoples want their governments to keep this promise - so, we have to put pressure on them. The Great Peace Journey is one way of doing it. </p></div>
                
                <div rend="align (right)"><p>The Great Peace Journey goes on - it has just begun
@@ -431,8 +434,8 @@
                   "This world of ours has been so radically transformed into 'one world or none' that all governments are accountable to all the peoples for what they do or do not do to preserve peace, to implement genuine disarmament measures, to con- vert resources used for military purposes to constructive and meaningful use." (Inga Thorsson, chairperson of The Great Peace Journey) </p></div>
                
                <div rend= "align (left)"> <p> <title type= "sub" >1985 Europe </title> 
-                  In the first stage of The Great Peace Journey a European network was orga- nized to visit European governments, asking the same five questions.
-                  70 delegates were chosen to represent their countries, forming five internatio- nal groups. During two intensive weeks we visited 25 governments.
+                  In the first stage of The Great Peace Journey a European network was organized to visit European governments, asking the same five questions.
+                  70 delegates were chosen to represent their countries, forming five international groups. During two intensive weeks we visited 25 governments.
                   We discussed the five questions with presidents, prime ministers and ministers for foreign affairs.
                   16 governments have answered "yes" to all the five questions. (See the green countries below)
                   <list>
@@ -450,7 +453,7 @@
                   <list> 
                      <item n="1"> Are you willing to forbid your country's defence forces from leaving your own country's territory - if all other U.N. countries do the same? </item>
                      <item n="2"> Are you willing to forbid nuclear weapons and other weapons of mass destruction in your country
-                        - if all other U.N. countries do the same?</item>
+                        - if all other <orgName ref="#UN">U.N.</orgName> countries do the same?</item>
                      <item n="3"> Are you willing to forbid the export of weapons from your country- if all other U.N. countries do the same?</item>
                      <item n= "4"> Are you willing to co-operate in joint action so that clean water, food, elementary health-care and school education will be guaranteed to all people in the whole world?</item>
                      <item n="5"> Are you willing to solve future conflicts with other nations through peaceful means, and not through military actions or threats?</item></list> </p>           
@@ -473,14 +476,14 @@
                   your neighbouring countries' governments as you think suitable. (The only thing that can not 
                   be changed is the five questions).</p></div>
                
-               <div rend= "align (left)"> <p><title>The United Nations Member States:</title>
+               <div rend= "align (left)"> <p><title>The <orgName ref="#UN">United Nations</orgName> Member States:</title>
                   Afghanistan, Albania, Algeria, Angola, Antigua, Argentina, Australia, <emph>Austria</emph>, Bahamas, Bahrain, Bangladesh, Barbados, <emph>Belgium</emph>, Belize, Benin, Bhutan, Bolivia, Botswana, Brazil, Brunei, <emph>Bulgaria</emph>, Burkina Faso, Burma, Burundi, Byelorussian SSR, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo, Costa Rica, Cuba, <emph>Cyprus</emph>, Czechoslovakia, <emph>Denmark</emph>, Djibouti, Dominica, Dominican Republic, Equador, Egypt, El Salvador, Equatorial Guinea, Ethiopia, Fiji, <emph>Finland</emph>, France, Gabon, Gambia, German Democratic Republic, Germany Federal Republic, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, <emph>Ireland</emph>, Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan, Kampuchea, Kenya, Kuwait, Laos, Lebanon, Lesotho, Liberia, Libya, <emph>Luxembourg</emph>, Madagascar, Malawi, Malaysia, Maldives, Mali,<emph> Malta</emph>, Mauritania, Mauritius, Mexico, Mongolia, Morocco, Mozambique, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Panama, Papau New Guinea, Paraguay, Peru, Philippines, <emph>Poland</emph>, <emph>Portugal</emph>, Qatar, <emph>Romania,</emph> Rwanda, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Seychelles, Sierra Leone, Singapore, Solomon Islands, Somalia, South Africa, <emph>Spain</emph>, Sri Lanka, Sudan, Suriname, Swaziland, <emph>Sweden</emph>, Syria, Tanzania, Thailand, Togo, Trinidad and Tobago, Tunisia, Turkey, Uganda, Ukrainian SSR, United Arab Emirates, United Kingdom, United States of America, Union of Soviet Socialist Republics, Uruguay, Vanuatu, Venezuela, Viet Nam, Yemen, Yemen Democratic, <emph>Yugoslavia</emph>, Zaire, Zambia, Zimbabwe. (Green colour means "yes" to all five questions) 15. 1. 1986.</p>
                </div>
                
                <div rend= "align (left)"> <p><title>YES, I (we) want to help in the following way:</title>
                   <list><item n="1"> Arrange meetings and spread information about The Great Peace Journey in our country</item>
                      <item n="2">Communicate with the press and other media</item>
-                     <item n="3">Choose delegates to put the five questions to the governments in our neighbouring U.N. member states</item>
+                     <item n="3">Choose delegates to put the five questions to the governments in our neighbouring <orgName ref="#UN"> U.N.</orgName> member states</item>
                      <item n="4"> Arrange for the meeting with the government in our country</item>
                      <item n="5">Prepare for the stay of the delegates (one or two days)</item>
                      <item n="6" > Give economic support</item>
@@ -527,12 +530,13 @@
          <div type="page" facs="#BoxB"> </div>
             
          
-        <div xml:id="Fundraisingletter"> <div type="page" facs="#LetterBidrag"></div>
+        <div xml:id="Fundraisingletter"> 
+           <div type="page" facs="#LetterBidrag">
            
-            <div> <head> Fundraising Letter (1984) </head>
-            <note type="introductory"> This fundraising letter was sent by IKFF to organisations and businesses asking for financial support for "The Great Peace Journey"</note> <lb/> </div>
+             <head> Fundraising Letter (1984) </head>
+            <note type="introductory"> This fundraising letter was sent by IKFF to organisations and businesses asking for financial support for The Great Peace Journey</note> <lb/> 
            
-            <div type="letterpage" xml:lang="sv">
+          
                <lb/>
                <note place="top" rend="handwritten" > Kopia Kirsti Kolthoff
                   Sven Rådström</note> 
@@ -549,10 +553,10 @@
                
                   <p><orgName ref="#IKFF">Internationella Kvinnoförbundet för Fred och Frihet</orgName> har tagit initiativ till ett stort projekt, som kommer att genomföras under <date when= "1985-05">maj månad 1985</date> </p>
                   <p>Det hot som den pågående militariseringen och kärnvapenkapp- rustningen utgör för alla jordens människor kan inte accepteras. Vi måste förmå statsmännen att tänka i nya banor.</p>
-                  <p>För att bryta det dödläge som rått alltför länge, reser en dele- gation av 200 kvinnor och män till Europas alla <orgName>FN</orgName>-länder (Etapp 1) och ställer fem stora och viktiga frågor till regeringarna. Vi kommer att kräva att regeringschefen eller utrikesministern be-
+                  <p>För att bryta det dödläge som rått alltför länge, reser en dele- gation av 200 kvinnor och män till Europas alla <orgName ref="#UN">FN</orgName>-länder (Etapp 1) och ställer fem stora och viktiga frågor till regeringarna. Vi kommer att kräva att regeringschefen eller utrikesministern be-
                      svarar dessa frågor.</p>
                   <p>För att kunna genomföra detta stora projekt på ett framgångs- rikt sätt behövs mycket pengar. Vi har fått tillstånd att an- ordna ett lotteri och vi kommer att sälja en speciell fredsblomma, men vi behöver mer pengar än detta kan inbringa.</p>
-                  <p> Vi vädjar därför till Er att bidraga till vårt projekt med så mycket pengar som möjligt. Ett eventuellt överskott överförs till Etapp 2, som omfattar de övriga <orgName>FN</orgName>-länderna i världen. Denna etapp tänker vi genomföra <date when=" 1986">1986</date> - <orgName>FN</orgName>:s Världsnedrustnings- år.</p>
+                  <p> Vi vädjar därför till Er att bidraga till vårt projekt med så mycket pengar som möjligt. Ett eventuellt överskott överförs till Etapp 2, som omfattar de övriga <orgName ref="#UN">FN</orgName>-länderna i världen. Denna etapp tänker vi genomföra <date when=" 1986">1986</date> - <orgName ref="#UN">FN</orgName>:s Världsnedrustnings- år.</p>
                   <closer>Stöd detta oerhört angelägna projekt och hjälp oss att rädda vår värld!
                   
                   
@@ -793,6 +797,7 @@
          
          <div type="page" facs= "#Letter_opened"> </div>
          </div>
+         
      <div xml:id="Newsletter">    
          <div type="page" facs="#LetterFront">
             
@@ -808,7 +813,7 @@
                <lb/>
             
            <opener> THE GREAT PEACE JOURNEY
-               <address> <name>INTERNATIONAL OFFICE</name> <street>VILLA FLORA BRUNNSPARKEN</street> <postCode>S-372 00</postCode> <region>RONNEBY</region> <country>SWEDEN </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
+              <address> <name>INTERNATIONAL OFFICE</name> <street> &#x2022; VILLA FLORA &#x2022; BRUNNSPARKEN &#x2022; </street> <postCode>S-372 00</postCode> <region>RONNEBY &#x2022;</region> <country>SWEDEN &#x2022; </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
                <lb/>
   
             <lb/>
@@ -821,7 +826,7 @@
                <p>Vad kan vi göra? Håller fredsrörelsen på att tappa sugen? DN:s manliga skribenter tycks ibland vilja få oss att tro det (Bengt Albons, Harald Hamrin..) Varför? Av okunnighet eller det som är värre?. </p>
                <p>Man tiger för det mesta om alla de fredsaktiviter som pågår runt om i vår värld.</p>
                <p>Jag tror tvärtom att fredsrörelsen är starkare än på länge. Våra värderingar har trängt långt in i institutioner och högt upp i etablissemangen. Trots de nidbilder av fredsrörelsen som presen- terats i massmedia.</p>
-               <p>1985 är det 40 år sen andra världskriget slutade och bomberna över Hiroshima och Nagasaki fälldes. Det är också 40 år sen FN bildades. <emph rend="underline">Då skall vi genomföra första etappen av Den Stora Fredsresan!</emph></p>
+               <p>1985 är det 40 år sen andra världskriget slutade och bomberna över Hiroshima och Nagasaki fälldes. Det är också 40 år sen <orgName ref="#UN">FN</orgName> bildades. <emph rend="underline">Då skall vi genomföra första etappen av Den Stora Fredsresan!</emph></p>
                <p>Kan fredsresan bli en vändpunkt? Ja, det beror i stor utsträckning på oss. Om vi slutar upp och låter arbetet med fredsresan komma bland det främsta på vår personliga dagordning. Stödet från många av våra gamla medlemmar känns fantastiskt. Liksom entusiasmen hos ungdomarna.</p>
                <p>Vad kan vi då göra? <emph rend="underline">Alla</emph>, enskilda medlemmar, grupper och kretsar, kan beställa hem blommor (från Ronneby) och lotter (från Stockholm) för att sälja, på jobbet, i bekantskapskretsen och till släkt och vänner. Både pingstliljan i papper för en femma och lotterna för en tia där man kan vinna de mest fantastiska resor, till Peru, Kenya, Mimalaya, Japan, USA - för två - är oerhört lättsålda. Just nu tillverkar arbetslösa ungdomar i Ronneby blomman för hand. Senare lär det väl bli maskintillverkning för att få fram miljoner när efterfrågan ökar framåt våren. (Blomman ska säljas över hela Europa)</p>
                <p>Om fredsresan ska få det genomslag som behövs beror också på oss alla tillsammans. Vi ska använda all vår uppfinningsrikedom och fantasi för att informera. Vänner, bekanta, tidningar, lokalradio, RR och TV, Eurovison. Andra föreningar!</p>
@@ -837,7 +842,7 @@
             <lb/>
             
             <opener> THE GREAT PEACE JOURNEY
-               <address> <name>INTERNATIONAL OFFICE</name> <street>VILLA FLORA BRUNNSPARKEN</street> <postCode>S-372 00</postCode> <region>RONNEBY</region> <country>SWEDEN </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
+               <address> <name>INTERNATIONAL OFFICE</name> <street> &#x2022; VILLA FLORA  &#x2022; BRUNNSPARKEN &#x2022;</street> <postCode>S-372 00</postCode> <region>RONNEBY &#x2022;</region> <country>SWEDEN &#x2022; </country><addrLine>TEL 0457-126 20 PG 14 31 48-5</addrLine></address> </opener>
                         
                
                <p> <lb/> Visst räknar vi med att Karin Söder ser till att Rädda Barnen och Centern får information om resan, Anders Wijkman Röda Korset Maj Britt Carlsson TCO, Olof Sundby svenska kyrkan etc.</p>
