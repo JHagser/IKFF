@@ -1,6 +1,12 @@
-
+.library {
+    margin-top: 5px ;
+    margin-bottom: 5px ;
+    display: grid ;
+    grid-template-columns: repeat(4, 1fr);
+}
 
 .gallery {
-    float: left ;
-    width: 25% ;
+    width: 95% ;
+    height: 95% ;
+    display: table ;
 }
