@@ -113,6 +113,20 @@
             <language ident="en">English</language>
          </langUsage>
          
+         <textClass>
+            <keywords scheme="https://www.loc.gov/pictures/collection/tgm/">
+               <term> Feminism</term>
+               <term> Fund raising</term>
+               <term> Membership campaigns</term>
+               <term> Moral aspects of war </term>
+               <term> Pacifism </term>
+               <term> Peace</term>
+               <term>Political organizations</term>
+               <term> Political Posters</term>
+            </keywords>
+            
+         </textClass>
+         
          <particDesc>
             <org xml:id="IKFF">
                <orgName> Internationella Kvinnoförbundet för Fred och Frihet</orgName>
