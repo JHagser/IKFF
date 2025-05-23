@@ -31,6 +31,8 @@
             </availability>
          </publicationStmt>
          
+
+         
          <sourceDesc>
             <p>
                Digitizations of objects and documents related to fundraising activities of the Swedish branch of the Women's International League 
@@ -443,7 +445,7 @@
        
      <div type="page" facs="#PosterFront">
             
-            <head> Poster describing The Great Peace Journey (Front). </head>
+            <head type="editorial"> Poster describing The Great Peace Journey (Front). </head>
             
             <div type= "poster">
                <p>   <lb/><l xml:lang="en">THE GREAT PEACE JOURNEY </l>
