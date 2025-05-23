@@ -85,8 +85,12 @@
          </samplingDecl>
          
          <editorialDecl>
-            <p> Headings supplied by the encoder </p>
-         </editorialDecl>       
+            <p>
+               The <code>head</code> element, when marked with the <code>type="editorial"</code> attribute, indicates headings introduced by the encoder that are not present in the original document.
+               The <code>note</code> element, when marked with the <code>type="introductory"</code> attribute, indicates descriptive information added by the encoder.
+            </p>
+         </editorialDecl>
+             
          
       </encodingDesc>
       
