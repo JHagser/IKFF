@@ -10,6 +10,8 @@ The repository consists of the following files:
 
 23 NEF RAW Image files  
 
+23 TIFF files
+
 23 XML files containing the metadata for each image file 
 
 A TEI file containing text encodings 
@@ -28,11 +30,11 @@ A TEI file containing text encodings
 
 A set of Creative Commons icons  
 
+2 text files of which one .gitattributes allows the storage of large TIFF files
+
+2 PDF files of the project report and an appendix to the project report
+
 This README file 
-
-A PDF file of the project report.  
-
- 
 
 Responsible for the repository are:  
 
