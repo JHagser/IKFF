@@ -120,10 +120,20 @@ footer {
   margin: 5px ;
   width: 500px ;
   margin-left: 25% ;
-
 }
 
+.library {
+    margin-top: 5px ;
+    margin-bottom: 5px ;
+    display: grid ;
+    grid-template-columns: repeat(4, 1fr);
+}
 
+.gallery {
+    width: 95% ;
+    height: 95% ;
+    display: table ;
+}
 
 
 

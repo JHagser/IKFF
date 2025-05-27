@@ -34,8 +34,8 @@
                     <a href="diplomatic.html">Diplomatic Transcription</a> |
                     <a href="reading.html">Reading Text</a> |
                     <a href="toplayer.html">Top Layer</a> |
-					<a href="raw.html">RAWs</a> |
-					<a href="rights.html">Rights</a> |
+                    <a href="raw.html">Unedited Images</a> |
+                    <a href="rights.html">Rights and Acknowledgements</a> |
                 </nav>
                 <main>
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -98,7 +98,7 @@
                 <div class="row" id="footer">
                   <div class="col-sm copyright">
                       <div>
-                        <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
+                        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode">
                             <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
 							<img src="assets/img/logos/nc-eu.svg" class="copyright_logo" alt="NonCommercial 4.0 International"/><img src="assets/img/logos/nd.svg" class="copyright_logo" alt="NoDerivatives 4.0 International"/>
                         </a>
